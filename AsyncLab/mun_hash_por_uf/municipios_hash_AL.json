@@ -1,0 +1,818 @@
+﻿[
+  {
+    "Tom": "2703",
+    "Ibge": "2700201",
+    "NomeTom": "ANADIA",
+    "NomeIbge": "Anadia",
+    "Uf": "AL",
+    "Hash": "ba2939880c6e9c9b6918a88b4c0fbd551456951be5f6c05f493fbdec2ac6ad37"
+  },
+  {
+    "Tom": "2705",
+    "Ibge": "2700300",
+    "NomeTom": "ARAPIRACA",
+    "NomeIbge": "Arapiraca",
+    "Uf": "AL",
+    "Hash": "d5b12de4c0744c11e48895421e1404edd537a43ca1861387fe4904fea4645cc7"
+  },
+  {
+    "Tom": "2707",
+    "Ibge": "2700409",
+    "NomeTom": "ATALAIA",
+    "NomeIbge": "Atalaia",
+    "Uf": "AL",
+    "Hash": "44945b614833f39b6591610a565b0e6390bec4b2cb6ad9e1600107b9c368c0f4"
+  },
+  {
+    "Tom": "2709",
+    "Ibge": "2700508",
+    "NomeTom": "BARRA DE SANTO ANT\uFFFDNIO",
+    "NomeIbge": "Barra de Santo Ant\uFFFDnio",
+    "Uf": "AL",
+    "Hash": "9fe871079284bfa50ee4e26a551ca38369b04c5fca0767967193d5fa432dab83"
+  },
+  {
+    "Tom": "2711",
+    "Ibge": "2700607",
+    "NomeTom": "BARRA DE S\uFFFDO MIGUEL",
+    "NomeIbge": "Barra de S\uFFFDo Miguel",
+    "Uf": "AL",
+    "Hash": "e80e4f39ce165564acbbd0e7d15482889c8239d35a41451e69e32928d954f562"
+  },
+  {
+    "Tom": "2713",
+    "Ibge": "2700706",
+    "NomeTom": "BATALHA",
+    "NomeIbge": "Batalha",
+    "Uf": "AL",
+    "Hash": "4f43638cf8774c3399721859b344d1275e0f0d81f8ff79126b6d3ab237711ed9"
+  },
+  {
+    "Tom": "2717",
+    "Ibge": "2700904",
+    "NomeTom": "BELO MONTE",
+    "NomeIbge": "Belo Monte",
+    "Uf": "AL",
+    "Hash": "ac8ff3126c8eaa8cb3ab5bedc3f5c8ac59410323effaae66e89540d7e7b55677"
+  },
+  {
+    "Tom": "2715",
+    "Ibge": "2700805",
+    "NomeTom": "BEL\uFFFDM",
+    "NomeIbge": "Bel\uFFFDm",
+    "Uf": "AL",
+    "Hash": "a8eca66142920c52938204a01fd56cefc367dd1fbbe239f9f04df4b1f9e50497"
+  },
+  {
+    "Tom": "2719",
+    "Ibge": "2701001",
+    "NomeTom": "BOCA DA MATA",
+    "NomeIbge": "Boca da Mata",
+    "Uf": "AL",
+    "Hash": "b05a34b765645e1b62ed627f00e2bc618e2b61d6a06dd2405200f17706af8fc9"
+  },
+  {
+    "Tom": "2721",
+    "Ibge": "2701100",
+    "NomeTom": "BRANQUINHA",
+    "NomeIbge": "Branquinha",
+    "Uf": "AL",
+    "Hash": "8347bdd377103af0e7b4de0acdec951e7bfed073ca2e80a2f828b5fe2b81a9c4"
+  },
+  {
+    "Tom": "2723",
+    "Ibge": "2701209",
+    "NomeTom": "CACIMBINHAS",
+    "NomeIbge": "Cacimbinhas",
+    "Uf": "AL",
+    "Hash": "84e0c38d917854da2316f1c8562e724959f2e4b7a7d5076a67db1f17a8f6a9b2"
+  },
+  {
+    "Tom": "2725",
+    "Ibge": "2701308",
+    "NomeTom": "CAJUEIRO",
+    "NomeIbge": "Cajueiro",
+    "Uf": "AL",
+    "Hash": "ea23fae9fc04372e912287b385738e8b29317e34a7371732819f4b962357fb2a"
+  },
+  {
+    "Tom": "560",
+    "Ibge": "2701357",
+    "NomeTom": "CAMPESTRE",
+    "NomeIbge": "Campestre",
+    "Uf": "AL",
+    "Hash": "8329056432441d18a37250dbe89c806bcc4af298064c5d9d780d4d2f5810067f"
+  },
+  {
+    "Tom": "2727",
+    "Ibge": "2701407",
+    "NomeTom": "CAMPO ALEGRE",
+    "NomeIbge": "Campo Alegre",
+    "Uf": "AL",
+    "Hash": "fc011115ff8afab2e0796180c4a2503cd850e1b6e4c99431f82a31e6cba89b7e"
+  },
+  {
+    "Tom": "2729",
+    "Ibge": "2701506",
+    "NomeTom": "CAMPO GRANDE",
+    "NomeIbge": "Campo Grande",
+    "Uf": "AL",
+    "Hash": "6f3270c52f879a64f4c39f66fffbdc02a2e57d034648ed817e6c4af5077ad020"
+  },
+  {
+    "Tom": "2731",
+    "Ibge": "2701605",
+    "NomeTom": "CANAPI",
+    "NomeIbge": "Canapi",
+    "Uf": "AL",
+    "Hash": "b6e98b026113171be063f4ee6a5018e33fd396295fc352a38c203469346028d9"
+  },
+  {
+    "Tom": "2733",
+    "Ibge": "2701704",
+    "NomeTom": "CAPELA",
+    "NomeIbge": "Capela",
+    "Uf": "AL",
+    "Hash": "34d872eee58387a5d7c8fb4db19b5c0ca3010c601ef7b40ef90421400fc409de"
+  },
+  {
+    "Tom": "2735",
+    "Ibge": "2701803",
+    "NomeTom": "CARNEIROS",
+    "NomeIbge": "Carneiros",
+    "Uf": "AL",
+    "Hash": "29d3f6bff4fde09c96d3acb4f6f750b26b6b3414fe67713533d158fe3670491a"
+  },
+  {
+    "Tom": "2737",
+    "Ibge": "2701902",
+    "NomeTom": "CH\uFFFD PRETA",
+    "NomeIbge": "Ch\uFFFD Preta",
+    "Uf": "AL",
+    "Hash": "86567f07969a69a677112eb46ad30fd52678ff20e6cd912ccc7cd09eb7f4bd7f"
+  },
+  {
+    "Tom": "2739",
+    "Ibge": "2702009",
+    "NomeTom": "COIT\uFFFD DO N\uFFFDIA",
+    "NomeIbge": "Coit\uFFFD do N\uFFFDia",
+    "Uf": "AL",
+    "Hash": "40b985e03db8544fd7c39f5afdb8650e05163954961751cde6ae695800db3c88"
+  },
+  {
+    "Tom": "2741",
+    "Ibge": "2702108",
+    "NomeTom": "COL\uFFFDNIA LEOPOLDINA",
+    "NomeIbge": "Col\uFFFDnia Leopoldina",
+    "Uf": "AL",
+    "Hash": "1034ac7a449c3a1346f997d1c9d7517a147128d2094756b7c83dad2b33a56143"
+  },
+  {
+    "Tom": "2743",
+    "Ibge": "2702207",
+    "NomeTom": "COQUEIRO SECO",
+    "NomeIbge": "Coqueiro Seco",
+    "Uf": "AL",
+    "Hash": "33a2644d720b85fda2d1f0654c32aaeb72df33f72fb5a92f5a6c38416647f425"
+  },
+  {
+    "Tom": "2745",
+    "Ibge": "2702306",
+    "NomeTom": "CORURIPE",
+    "NomeIbge": "Coruripe",
+    "Uf": "AL",
+    "Hash": "2efb88e7a57eceddfae2e8307f36947aa7ebb1b484625daf82ec1dcf9ec2b99b"
+  },
+  {
+    "Tom": "2889",
+    "Ibge": "2702355",
+    "NomeTom": "CRA\uFFFDBAS",
+    "NomeIbge": "Cra\uFFFDbas",
+    "Uf": "AL",
+    "Hash": "9278fee0267ccc57762e75c57e84e710f62bde613cc54941ddeec217a16b91e5"
+  },
+  {
+    "Tom": "2747",
+    "Ibge": "2702405",
+    "NomeTom": "DELMIRO GOUVEIA",
+    "NomeIbge": "Delmiro Gouveia",
+    "Uf": "AL",
+    "Hash": "912a57b59a065685e318845c09a33b9915dc27e97b64e49c2440b79b543e5bfd"
+  },
+  {
+    "Tom": "2749",
+    "Ibge": "2702504",
+    "NomeTom": "DOIS RIACHOS",
+    "NomeIbge": "Dois Riachos",
+    "Uf": "AL",
+    "Hash": "d2a8a8d9f4f677252b7e20696d1fd271aee9f6e74a313eb0287b98f5cfdda739"
+  },
+  {
+    "Tom": "2643",
+    "Ibge": "2702553",
+    "NomeTom": "ESTRELA DE ALAGOAS",
+    "NomeIbge": "Estrela de Alagoas",
+    "Uf": "AL",
+    "Hash": "a45a3ca25163b1cc3684fe55580b4ae7d0088b7032102b468755bd6a3c058196"
+  },
+  {
+    "Tom": "2751",
+    "Ibge": "2702603",
+    "NomeTom": "FEIRA GRANDE",
+    "NomeIbge": "Feira Grande",
+    "Uf": "AL",
+    "Hash": "24462985489c33cfc4d204bf1c2cd8b6b6919fac2159d5913f2823c78dc9b7af"
+  },
+  {
+    "Tom": "2753",
+    "Ibge": "2702702",
+    "NomeTom": "FELIZ DESERTO",
+    "NomeIbge": "Feliz Deserto",
+    "Uf": "AL",
+    "Hash": "be6e690da7a10e6123657471df4fdbb5cf8d24138c45e61a93384b6f80282479"
+  },
+  {
+    "Tom": "2755",
+    "Ibge": "2702801",
+    "NomeTom": "FLEXEIRAS",
+    "NomeIbge": "Flexeiras",
+    "Uf": "AL",
+    "Hash": "01d71392b8dca5417e660100252b6f895a37bfd74db80db01dbd156e02545a8a"
+  },
+  {
+    "Tom": "2757",
+    "Ibge": "2702900",
+    "NomeTom": "GIRAU DO PONCIANO",
+    "NomeIbge": "Girau do Ponciano",
+    "Uf": "AL",
+    "Hash": "5f310d9aedda888a20cbe23a4a7b11d5b11675783cd73a9ea3750db08c988dd2"
+  },
+  {
+    "Tom": "2759",
+    "Ibge": "2703007",
+    "NomeTom": "IBATEGUARA",
+    "NomeIbge": "Ibateguara",
+    "Uf": "AL",
+    "Hash": "5ef0e24e6889c3b148aed519e48e7554ecb7e78f8aa05646a688b43611ac11e8"
+  },
+  {
+    "Tom": "2761",
+    "Ibge": "2703106",
+    "NomeTom": "IGACI",
+    "NomeIbge": "Igaci",
+    "Uf": "AL",
+    "Hash": "de30cb34351bd15f97935102e82994734293efca16cab76b97de14e6ad6a92ba"
+  },
+  {
+    "Tom": "2763",
+    "Ibge": "2703205",
+    "NomeTom": "IGREJA NOVA",
+    "NomeIbge": "Igreja Nova",
+    "Uf": "AL",
+    "Hash": "18a731c442a6f60944508251bbead2679abba346cb34b99e705dd91a87358be3"
+  },
+  {
+    "Tom": "2765",
+    "Ibge": "2703304",
+    "NomeTom": "INHAPI",
+    "NomeIbge": "Inhapi",
+    "Uf": "AL",
+    "Hash": "a6c2ec5d1c4a6514079a8fafdec06934bccac2547864f5f5eeaf1ef7c893bb8e"
+  },
+  {
+    "Tom": "2767",
+    "Ibge": "2703403",
+    "NomeTom": "JACAR\uFFFD DOS HOMENS",
+    "NomeIbge": "Jacar\uFFFD dos Homens",
+    "Uf": "AL",
+    "Hash": "96f594869387acb90edd18f756dae5659f6bce1578e01dc0e030e8c85eb741d4"
+  },
+  {
+    "Tom": "2769",
+    "Ibge": "2703502",
+    "NomeTom": "JACU\uFFFDPE",
+    "NomeIbge": "Jacu\uFFFDpe",
+    "Uf": "AL",
+    "Hash": "e4659f5ea9c5b587834e55d5c15193dad1837c26db23e885dfb134bfbc1cb51b"
+  },
+  {
+    "Tom": "2771",
+    "Ibge": "2703601",
+    "NomeTom": "JAPARATINGA",
+    "NomeIbge": "Japaratinga",
+    "Uf": "AL",
+    "Hash": "bdf71379e82842bf69037dfecb8f98e307eeedcb99a120bc081a64c8dd7a3b5e"
+  },
+  {
+    "Tom": "2773",
+    "Ibge": "2703700",
+    "NomeTom": "JARAMATAIA",
+    "NomeIbge": "Jaramataia",
+    "Uf": "AL",
+    "Hash": "5bacaa6d4c2a798abf4e41ab6c8ad2aa0268f29a1f27e38261cf3328c5ecb61a"
+  },
+  {
+    "Tom": "562",
+    "Ibge": "2703759",
+    "NomeTom": "JEQUI\uFFFD DA PRAIA",
+    "NomeIbge": "Jequi\uFFFD da Praia",
+    "Uf": "AL",
+    "Hash": "e959438802f85be1399fbd005c70970a0ba39aad3c40c3bac3c68526f5282d7b"
+  },
+  {
+    "Tom": "2775",
+    "Ibge": "2703809",
+    "NomeTom": "JOAQUIM GOMES",
+    "NomeIbge": "Joaquim Gomes",
+    "Uf": "AL",
+    "Hash": "33d28f729736e9724b03c532e20f493605bd6e94861b6217948cdd4c0b6fc89f"
+  },
+  {
+    "Tom": "2777",
+    "Ibge": "2703908",
+    "NomeTom": "JUNDI\uFFFD",
+    "NomeIbge": "Jundi\uFFFD",
+    "Uf": "AL",
+    "Hash": "f851bb8459d2a1463e93eaee4be35e6e9739eb9e945007bea70c63541c670398"
+  },
+  {
+    "Tom": "2779",
+    "Ibge": "2704005",
+    "NomeTom": "JUNQUEIRO",
+    "NomeIbge": "Junqueiro",
+    "Uf": "AL",
+    "Hash": "230ad2c03aed0fab369b5f327a6778af4a116165768cfa56813708e7c07958cb"
+  },
+  {
+    "Tom": "2781",
+    "Ibge": "2704104",
+    "NomeTom": "LAGOA DA CANOA",
+    "NomeIbge": "Lagoa da Canoa",
+    "Uf": "AL",
+    "Hash": "6822466fc0430231c7187f5579b6806c66af839c51914ac76aa5cf12b275d1b9"
+  },
+  {
+    "Tom": "2783",
+    "Ibge": "2704203",
+    "NomeTom": "LIMOEIRO DE ANADIA",
+    "NomeIbge": "Limoeiro de Anadia",
+    "Uf": "AL",
+    "Hash": "312af680c716a3a67e7f6728a83c7dba5c55234cb2b5bc125e2c3ae9b26f6e1b"
+  },
+  {
+    "Tom": "2785",
+    "Ibge": "2704302",
+    "NomeTom": "MACEI\uFFFD",
+    "NomeIbge": "Macei\uFFFD",
+    "Uf": "AL",
+    "Hash": "79da3a0ec836aafe59254e567fa6d5f0cbb852fadffb90ca41966f7b836ed24d"
+  },
+  {
+    "Tom": "2787",
+    "Ibge": "2704401",
+    "NomeTom": "MAJOR ISIDORO",
+    "NomeIbge": "Major Isidoro",
+    "Uf": "AL",
+    "Hash": "8df1c9fd2890b0dc605c60d842e7fdb90fba473c56a99d219681aa8b7850ddc3"
+  },
+  {
+    "Tom": "2797",
+    "Ibge": "2704906",
+    "NomeTom": "MAR VERMELHO",
+    "NomeIbge": "Mar Vermelho",
+    "Uf": "AL",
+    "Hash": "579eb9a2f74c4dff20afd8a23cbbc18f854ccc82c1ff2fcdd6e431ac92773fe5"
+  },
+  {
+    "Tom": "2789",
+    "Ibge": "2704500",
+    "NomeTom": "MARAGOGI",
+    "NomeIbge": "Maragogi",
+    "Uf": "AL",
+    "Hash": "2b47a4cf16fc3a1d9a36c29a25e935ee909c2250798aa36fdfb95d359f6c7031"
+  },
+  {
+    "Tom": "2791",
+    "Ibge": "2704609",
+    "NomeTom": "MARAVILHA",
+    "NomeIbge": "Maravilha",
+    "Uf": "AL",
+    "Hash": "a05ceb4c603c3b5e7fbc7213824302bfbfd590cfb045ea315715806c4ed3217d"
+  },
+  {
+    "Tom": "2793",
+    "Ibge": "2704708",
+    "NomeTom": "MARECHAL DEODORO",
+    "NomeIbge": "Marechal Deodoro",
+    "Uf": "AL",
+    "Hash": "08e3bad0e4dab3c27108f83c4de9a6e2bd6aaf309b59beb648a6d35cf32cc0a9"
+  },
+  {
+    "Tom": "2795",
+    "Ibge": "2704807",
+    "NomeTom": "MARIBONDO",
+    "NomeIbge": "Maribondo",
+    "Uf": "AL",
+    "Hash": "b16622fe2610ebaeaab2c1c6fc2eab4da86868b83fbdc0c8d4d768a70b8c88e0"
+  },
+  {
+    "Tom": "2799",
+    "Ibge": "2705002",
+    "NomeTom": "MATA GRANDE",
+    "NomeIbge": "Mata Grande",
+    "Uf": "AL",
+    "Hash": "7c1a8c8c175bbc62deb2a8c310792a733acb8d766f3c7ab7423c3ea984a8f7ed"
+  },
+  {
+    "Tom": "2801",
+    "Ibge": "2705101",
+    "NomeTom": "MATRIZ DE CAMARAGIBE",
+    "NomeIbge": "Matriz de Camaragibe",
+    "Uf": "AL",
+    "Hash": "fae6cd11c8bf0a45217d7b17be4d8e23d0c824276d2dda089234dc93eb910f5b"
+  },
+  {
+    "Tom": "2803",
+    "Ibge": "2705200",
+    "NomeTom": "MESSIAS",
+    "NomeIbge": "Messias",
+    "Uf": "AL",
+    "Hash": "fffd9728b7d1e6ebf19cb8d8ce14625f57e1a6efc3ebb13f4a31586d076607e1"
+  },
+  {
+    "Tom": "2805",
+    "Ibge": "2705309",
+    "NomeTom": "MINADOR DO NEGR\uFFFDO",
+    "NomeIbge": "Minador do Negr\uFFFDo",
+    "Uf": "AL",
+    "Hash": "76f76a110fdc06df27192c1b5fd1b75eed06cfdbf445905179047762fcd13cf3"
+  },
+  {
+    "Tom": "2807",
+    "Ibge": "2705408",
+    "NomeTom": "MONTEIR\uFFFDPOLIS",
+    "NomeIbge": "Monteir\uFFFDpolis",
+    "Uf": "AL",
+    "Hash": "41f8fbee7aa57e07c061972d8800274c9b0e19494e0e6ebe89401fc4ff24393b"
+  },
+  {
+    "Tom": "2809",
+    "Ibge": "2705507",
+    "NomeTom": "MURICI",
+    "NomeIbge": "Murici",
+    "Uf": "AL",
+    "Hash": "09ce28e678a8e4b9bdb8c5b5b285cd4d35f3ce286e456a3ae6194146a136a13f"
+  },
+  {
+    "Tom": "2811",
+    "Ibge": "2705606",
+    "NomeTom": "NOVO LINO",
+    "NomeIbge": "Novo Lino",
+    "Uf": "AL",
+    "Hash": "838f6ee9069659e4f49e12406a069fa85053ec0fc1b138c749d344d1b0d6976c"
+  },
+  {
+    "Tom": "2813",
+    "Ibge": "2705705",
+    "NomeTom": "OLHO D\u0027\uFFFDGUA DAS FLORES",
+    "NomeIbge": "Olho d\u0027\uFFFDgua das Flores",
+    "Uf": "AL",
+    "Hash": "72ccdae4013a70209cd992a39256e0a1c3210c26b2193385851938484b1e15ee"
+  },
+  {
+    "Tom": "2815",
+    "Ibge": "2705804",
+    "NomeTom": "OLHO D\u0027\uFFFDGUA DO CASADO",
+    "NomeIbge": "Olho d\u0027\uFFFDgua do Casado",
+    "Uf": "AL",
+    "Hash": "b9a22b2bcb67838c4834c929e4ed66dc31c91ab9baa5588bf980bfb5b1a91df9"
+  },
+  {
+    "Tom": "2817",
+    "Ibge": "2705903",
+    "NomeTom": "OLHO D\u0027\uFFFDGUA GRANDE",
+    "NomeIbge": "Olho d\u0027\uFFFDgua Grande",
+    "Uf": "AL",
+    "Hash": "5ec2034903e565f81b70e731be0fbd7bd12e25ad3392f9b97147e4e99849ce29"
+  },
+  {
+    "Tom": "2819",
+    "Ibge": "2706000",
+    "NomeTom": "OLIVEN\uFFFDA",
+    "NomeIbge": "Oliven\uFFFDa",
+    "Uf": "AL",
+    "Hash": "a89fed6e950560fa18905924b53e32d90efde172e96aa4b7e805e13da076d4ae"
+  },
+  {
+    "Tom": "2821",
+    "Ibge": "2706109",
+    "NomeTom": "OURO BRANCO",
+    "NomeIbge": "Ouro Branco",
+    "Uf": "AL",
+    "Hash": "9a8d92de06ae5ea9e54391038c6f30c26718d35a0fe5556c99d3e7b49071d7ef"
+  },
+  {
+    "Tom": "2823",
+    "Ibge": "2706208",
+    "NomeTom": "PALESTINA",
+    "NomeIbge": "Palestina",
+    "Uf": "AL",
+    "Hash": "8bb6e1448d170c51f52e97e8103e8402404eee6e4dc94170007fce5b1f7cb2f8"
+  },
+  {
+    "Tom": "2825",
+    "Ibge": "2706307",
+    "NomeTom": "PALMEIRA DOS \uFFFDNDIOS",
+    "NomeIbge": "Palmeira dos \uFFFDndios",
+    "Uf": "AL",
+    "Hash": "1db4c8932a07b6a875263a9b84d03e0ffe38a8e3d9f5a3b0aa6caa0f58f50b7e"
+  },
+  {
+    "Tom": "2645",
+    "Ibge": "2706422",
+    "NomeTom": "PARICONHA",
+    "NomeIbge": "Pariconha",
+    "Uf": "AL",
+    "Hash": "9d5b41136dae3251f24c44e8258c748464dde4287071e8808ba35030ba276b25"
+  },
+  {
+    "Tom": "2641",
+    "Ibge": "2706448",
+    "NomeTom": "PARIPUEIRA",
+    "NomeIbge": "Paripueira",
+    "Uf": "AL",
+    "Hash": "e896d3017e9c6ad9533cbb8f308ade036dd5d4f8b1066408aa132ac0ede616b6"
+  },
+  {
+    "Tom": "2829",
+    "Ibge": "2706505",
+    "NomeTom": "PASSO DE CAMARAGIBE",
+    "NomeIbge": "Passo de Camaragibe",
+    "Uf": "AL",
+    "Hash": "950e986039a5f4424334fde67d66dc77d848c165f606d98c9cc8ca4a8cc79a0c"
+  },
+  {
+    "Tom": "2831",
+    "Ibge": "2706604",
+    "NomeTom": "PAULO JACINTO",
+    "NomeIbge": "Paulo Jacinto",
+    "Uf": "AL",
+    "Hash": "fb21e000dbf6302aeefd8fbf4f2f9bc54df3ad5c74e046e29831eaa05e81dc43"
+  },
+  {
+    "Tom": "2833",
+    "Ibge": "2706703",
+    "NomeTom": "PENEDO",
+    "NomeIbge": "Penedo",
+    "Uf": "AL",
+    "Hash": "9daa53926107fff3b2a19b391957acf29084b64eee251da08d94e8d684f02ad0"
+  },
+  {
+    "Tom": "2835",
+    "Ibge": "2706802",
+    "NomeTom": "PIA\uFFFDABU\uFFFDU",
+    "NomeIbge": "Pia\uFFFDabu\uFFFDu",
+    "Uf": "AL",
+    "Hash": "68c317a0a44ea534903db566869736c9cae42b4ec5df1c7f51b4663cefb04be2"
+  },
+  {
+    "Tom": "2837",
+    "Ibge": "2706901",
+    "NomeTom": "PILAR",
+    "NomeIbge": "Pilar",
+    "Uf": "AL",
+    "Hash": "bc2d1d5264dd40dd4ca4191ca8ece08b80ccc939b16617f1fd257f4c814b2bb8"
+  },
+  {
+    "Tom": "2839",
+    "Ibge": "2707008",
+    "NomeTom": "PINDOBA",
+    "NomeIbge": "Pindoba",
+    "Uf": "AL",
+    "Hash": "9ff514238f365bae6423883268c9eb0d668990be46f915e0d2e082f615ac796a"
+  },
+  {
+    "Tom": "2841",
+    "Ibge": "2707107",
+    "NomeTom": "PIRANHAS",
+    "NomeIbge": "Piranhas",
+    "Uf": "AL",
+    "Hash": "99f4d31d0bf66c54d40e281ef0fec6fc4f75f1e3b67ae48a16a43749db0d0fdc"
+  },
+  {
+    "Tom": "2845",
+    "Ibge": "2707305",
+    "NomeTom": "PORTO CALVO",
+    "NomeIbge": "Porto Calvo",
+    "Uf": "AL",
+    "Hash": "1f18395e3bd0fd2661811f9df0f8f9d7d847d907d13177cc85f9bdec5dd4bc5d"
+  },
+  {
+    "Tom": "2847",
+    "Ibge": "2707404",
+    "NomeTom": "PORTO DE PEDRAS",
+    "NomeIbge": "Porto de Pedras",
+    "Uf": "AL",
+    "Hash": "86fecf46a418ac69d4bfc5d1eef218a72651d31c5dea9ef918ff72ba28a08265"
+  },
+  {
+    "Tom": "2849",
+    "Ibge": "2707503",
+    "NomeTom": "PORTO REAL DO COL\uFFFDGIO",
+    "NomeIbge": "Porto Real do Col\uFFFDgio",
+    "Uf": "AL",
+    "Hash": "a84dc855c1a5c4220137198a919f9c76f453b9535c15fc6620dea8e4d9af3d7b"
+  },
+  {
+    "Tom": "2843",
+    "Ibge": "2707206",
+    "NomeTom": "PO\uFFFDO DAS TRINCHEIRAS",
+    "NomeIbge": "Po\uFFFDo das Trincheiras",
+    "Uf": "AL",
+    "Hash": "ba4bde3f5118528f7d47043d179101eeeb77e0149259169b23fbb119ef33f4af"
+  },
+  {
+    "Tom": "2827",
+    "Ibge": "2706406",
+    "NomeTom": "P\uFFFDO DE A\uFFFD\uFFFDCAR",
+    "NomeIbge": "P\uFFFDo de A\uFFFD\uFFFDcar",
+    "Uf": "AL",
+    "Hash": "a6284664b0e67e81ca4b7088fbc8c56e8d4399c778f591e4bc1e6f30b417c488"
+  },
+  {
+    "Tom": "2851",
+    "Ibge": "2707602",
+    "NomeTom": "QUEBRANGULO",
+    "NomeIbge": "Quebrangulo",
+    "Uf": "AL",
+    "Hash": "bcb6c04e20b235d5fb4274f6eac6b410128871b29cb7aadea1899fbf3e7b9473"
+  },
+  {
+    "Tom": "2853",
+    "Ibge": "2707701",
+    "NomeTom": "RIO LARGO",
+    "NomeIbge": "Rio Largo",
+    "Uf": "AL",
+    "Hash": "03fdc93b649d1e70723b2f20a9d44629cb42907f2695ec831c84ad9c4db8df32"
+  },
+  {
+    "Tom": "2855",
+    "Ibge": "2707800",
+    "NomeTom": "ROTEIRO",
+    "NomeIbge": "Roteiro",
+    "Uf": "AL",
+    "Hash": "5232e2520596a9f985b6a20fc9c05bfe2b56fe422764d2f1ce52f1790836e18a"
+  },
+  {
+    "Tom": "2857",
+    "Ibge": "2707909",
+    "NomeTom": "SANTA LUZIA DO NORTE",
+    "NomeIbge": "Santa Luzia do Norte",
+    "Uf": "AL",
+    "Hash": "3dfb34bd1dcfd634a6376d3ebed71dbf28e13c4b1fc62efa2c93c1fb85834376"
+  },
+  {
+    "Tom": "2859",
+    "Ibge": "2708006",
+    "NomeTom": "SANTANA DO IPANEMA",
+    "NomeIbge": "Santana do Ipanema",
+    "Uf": "AL",
+    "Hash": "581322f3ac01be5faaba87eb76e3a65498500e9b75463aa986f8b80bce526386"
+  },
+  {
+    "Tom": "2861",
+    "Ibge": "2708105",
+    "NomeTom": "SANTANA DO MUNDA\uFFFD",
+    "NomeIbge": "Santana do Munda\uFFFD",
+    "Uf": "AL",
+    "Hash": "25aa4efe09943913d38fa6fc232546397cb6e977b1e7eb56b936b101aff8b812"
+  },
+  {
+    "Tom": "2877",
+    "Ibge": "2708907",
+    "NomeTom": "SATUBA",
+    "NomeIbge": "Satuba",
+    "Uf": "AL",
+    "Hash": "de9d8c64752664db03dbc90c186f703ea105602a4f0a1427e01ee106f5666f4f"
+  },
+  {
+    "Tom": "2891",
+    "Ibge": "2708956",
+    "NomeTom": "SENADOR RUI PALMEIRA",
+    "NomeIbge": "Senador Rui Palmeira",
+    "Uf": "AL",
+    "Hash": "58cd2a9f84952173403099ec751576975f61879a3429600680137f8a689e8e0d"
+  },
+  {
+    "Tom": "2863",
+    "Ibge": "2708204",
+    "NomeTom": "S\uFFFDO BR\uFFFDS",
+    "NomeIbge": "S\uFFFDo Br\uFFFDs",
+    "Uf": "AL",
+    "Hash": "d382ad1f26a27bee0bf6e0aea732ba746f0ea7dd8a6df4aaa252562a28c57d3e"
+  },
+  {
+    "Tom": "2865",
+    "Ibge": "2708303",
+    "NomeTom": "S\uFFFDO JOS\uFFFD DA LAJE",
+    "NomeIbge": "S\uFFFDo Jos\uFFFD da Laje",
+    "Uf": "AL",
+    "Hash": "ea40284fb8827c9427ac9f98a6b7b218dd0552b42b3627177718cd1347332f3c"
+  },
+  {
+    "Tom": "2867",
+    "Ibge": "2708402",
+    "NomeTom": "S\uFFFDO JOS\uFFFD DA TAPERA",
+    "NomeIbge": "S\uFFFDo Jos\uFFFD da Tapera",
+    "Uf": "AL",
+    "Hash": "12940e2bed94110908b780906911f65c9b2a30520ad29abd8ccf687f23681f58"
+  },
+  {
+    "Tom": "2869",
+    "Ibge": "2708501",
+    "NomeTom": "S\uFFFDO LU\uFFFDS DO QUITUNDE",
+    "NomeIbge": "S\uFFFDo Lu\uFFFDs do Quitunde",
+    "Uf": "AL",
+    "Hash": "59f58c21d2b22636e149465ef0dcd38b4723b250f4cb729b2d61dc74943444c2"
+  },
+  {
+    "Tom": "2871",
+    "Ibge": "2708600",
+    "NomeTom": "S\uFFFDO MIGUEL DOS CAMPOS",
+    "NomeIbge": "S\uFFFDo Miguel dos Campos",
+    "Uf": "AL",
+    "Hash": "7902151e110be8de9af4f9873ec31ee4600471df5a9facf03b83ffd4ae84ed3b"
+  },
+  {
+    "Tom": "2873",
+    "Ibge": "2708709",
+    "NomeTom": "S\uFFFDO MIGUEL DOS MILAGRES",
+    "NomeIbge": "S\uFFFDo Miguel dos Milagres",
+    "Uf": "AL",
+    "Hash": "88cd2e61264f45d200c933537c2b65e24f3951ce0833683cf9f947fca8aef572"
+  },
+  {
+    "Tom": "2875",
+    "Ibge": "2708808",
+    "NomeTom": "S\uFFFDO SEBASTI\uFFFDO",
+    "NomeIbge": "S\uFFFDo Sebasti\uFFFDo",
+    "Uf": "AL",
+    "Hash": "5cdec7d5f860048957ed927b361f9a7f206cfd724f61b49333417ec8b7deb71d"
+  },
+  {
+    "Tom": "2879",
+    "Ibge": "2709004",
+    "NomeTom": "TANQUE D\u0027ARCA",
+    "NomeIbge": "Tanque d\u0027Arca",
+    "Uf": "AL",
+    "Hash": "46171d16893a7580c4419ea507e7853c6e553074acb39a9c55487c04a41240ef"
+  },
+  {
+    "Tom": "2881",
+    "Ibge": "2709103",
+    "NomeTom": "TAQUARANA",
+    "NomeIbge": "Taquarana",
+    "Uf": "AL",
+    "Hash": "11374b805324858e1aa99fe4789cd1007b045614dfae46f75a0f2fe3f551df3f"
+  },
+  {
+    "Tom": "971",
+    "Ibge": "2709152",
+    "NomeTom": "TEOT\uFFFDNIO VILELA",
+    "NomeIbge": "Teot\uFFFDnio Vilela",
+    "Uf": "AL",
+    "Hash": "8d5185b6b50d4c41e4bb86f967e124d95f394ccd9975d9dab340169ca9e797e2"
+  },
+  {
+    "Tom": "2883",
+    "Ibge": "2709202",
+    "NomeTom": "TRAIPU",
+    "NomeIbge": "Traipu",
+    "Uf": "AL",
+    "Hash": "9111b9e9b33d59b0c28ea3ffc59dd3b16e169d384c19b0f7e82203099e1ebacb"
+  },
+  {
+    "Tom": "2885",
+    "Ibge": "2709301",
+    "NomeTom": "UNI\uFFFDO DOS PALMARES",
+    "NomeIbge": "Uni\uFFFDo dos Palmares",
+    "Uf": "AL",
+    "Hash": "c9f27bc6c4a5dbf1361c15bf19ed63de47f0502eb6b0486cc10e54dbca248920"
+  },
+  {
+    "Tom": "2887",
+    "Ibge": "2709400",
+    "NomeTom": "VI\uFFFDOSA",
+    "NomeIbge": "Vi\uFFFDosa",
+    "Uf": "AL",
+    "Hash": "b4286cd1056bb2a661befdead29079d26864dd39041288dd8ed2ccc7e25bea2f"
+  },
+  {
+    "Tom": "2701",
+    "Ibge": "2700102",
+    "NomeTom": "\uFFFDGUA BRANCA",
+    "NomeIbge": "\uFFFDgua Branca",
+    "Uf": "AL",
+    "Hash": "9648659e73fb3009a5ed20f025abc312abfb82fcc4fd69cfbaa6260b54da2edf"
+  }
+]

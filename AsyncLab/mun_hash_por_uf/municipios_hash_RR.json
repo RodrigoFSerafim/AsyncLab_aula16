@@ -1,0 +1,122 @@
+﻿[
+  {
+    "Tom": "305",
+    "Ibge": "1400050",
+    "NomeTom": "ALTO ALEGRE",
+    "NomeIbge": "Alto Alegre",
+    "Uf": "RR",
+    "Hash": "afa3c391589f219e31524b38907113f6159df60728e6d6418f412932891170c2"
+  },
+  {
+    "Tom": "26",
+    "Ibge": "1400027",
+    "NomeTom": "AMAJARI",
+    "NomeIbge": "Amajari",
+    "Uf": "RR",
+    "Hash": "9f5b7aefe9ec67b8db0c185c5c9d96b7f2a51a74a9d7b7a28cabec157b3e4ce8"
+  },
+  {
+    "Tom": "301",
+    "Ibge": "1400100",
+    "NomeTom": "BOA VISTA",
+    "NomeIbge": "Boa Vista",
+    "Uf": "RR",
+    "Hash": "c98ada4baeea8bf39151dff91769dce23865d9dd2d354ba002180bab7698f649"
+  },
+  {
+    "Tom": "307",
+    "Ibge": "1400159",
+    "NomeTom": "BONFIM",
+    "NomeIbge": "Bonfim",
+    "Uf": "RR",
+    "Hash": "9885c7e91f0ac58227c2d2d6fbaa3753db243102b079c28f664e57f047c53b7c"
+  },
+  {
+    "Tom": "28",
+    "Ibge": "1400175",
+    "NomeTom": "CANT\uFFFD",
+    "NomeIbge": "Cant\uFFFD",
+    "Uf": "RR",
+    "Hash": "7675bb9f7c8faf005a2edfcd9f8cf84945a1cf1e6deba2f13b2df78263df5296"
+  },
+  {
+    "Tom": "303",
+    "Ibge": "1400209",
+    "NomeTom": "CARACARA\uFFFD",
+    "NomeIbge": "Caracara\uFFFD",
+    "Uf": "RR",
+    "Hash": "ec3981bc7755049f26b293f626a4cded3c9d770027fc6880f7f63f7eb8b92b3b"
+  },
+  {
+    "Tom": "30",
+    "Ibge": "1400233",
+    "NomeTom": "CAROEBE",
+    "NomeIbge": "Caroebe",
+    "Uf": "RR",
+    "Hash": "19baac5c3a430f1a95029a6897481ef7d2388006eebe3853fa8cdf35576555ec"
+  },
+  {
+    "Tom": "32",
+    "Ibge": "1400282",
+    "NomeTom": "IRACEMA",
+    "NomeIbge": "Iracema",
+    "Uf": "RR",
+    "Hash": "3488d616b2fbb42722d8abd71827447f1180d5541e16fb72afbb0615df5ef765"
+  },
+  {
+    "Tom": "309",
+    "Ibge": "1400308",
+    "NomeTom": "MUCAJA\uFFFD",
+    "NomeIbge": "Mucaja\uFFFD",
+    "Uf": "RR",
+    "Hash": "8df5a8df42ebb1cd23dac08441d3bacccfb84c8023ce8ff3ca6a1b518dc840c0"
+  },
+  {
+    "Tom": "311",
+    "Ibge": "1400407",
+    "NomeTom": "NORMANDIA",
+    "NomeIbge": "Normandia",
+    "Uf": "RR",
+    "Hash": "8f8f478dfd8a31f3588979b1a8487f00812dedb80cbc7a5a5036926050c2f6cc"
+  },
+  {
+    "Tom": "34",
+    "Ibge": "1400456",
+    "NomeTom": "PACARAIMA",
+    "NomeIbge": "Pacaraima",
+    "Uf": "RR",
+    "Hash": "f39470bcb619d45dc7e293cfc68f5e9406ef4c5115bea193b6baabb3ab086fc8"
+  },
+  {
+    "Tom": "36",
+    "Ibge": "1400472",
+    "NomeTom": "RORAIN\uFFFDPOLIS",
+    "NomeIbge": "Rorain\uFFFDpolis",
+    "Uf": "RR",
+    "Hash": "a02897750131581f2640ffca376f1a1268b6ad48cd8fc92af62af57538999924"
+  },
+  {
+    "Tom": "313",
+    "Ibge": "1400506",
+    "NomeTom": "S\uFFFDO JO\uFFFDO DA BALIZA",
+    "NomeIbge": "S\uFFFDo Jo\uFFFDo da Baliza",
+    "Uf": "RR",
+    "Hash": "2feb07b5dda8195917a6cd7714c5bed2d70f9fc3ccf673b20e19094711e27ff5"
+  },
+  {
+    "Tom": "315",
+    "Ibge": "1400605",
+    "NomeTom": "S\uFFFDO LUIZ",
+    "NomeIbge": "S\uFFFDo Luiz",
+    "Uf": "RR",
+    "Hash": "0ab9b230a2d98864ebea9bbdb90e6bafc10304436dc585be29860cc00d0c79cf"
+  },
+  {
+    "Tom": "38",
+    "Ibge": "1400704",
+    "NomeTom": "UIRAMUT\uFFFD",
+    "NomeIbge": "Uiramut\uFFFD",
+    "Uf": "RR",
+    "Hash": "079f098f1abcde624c811d044bff7045712862234b093aeedd0fc032ced94456"
+  }
+]

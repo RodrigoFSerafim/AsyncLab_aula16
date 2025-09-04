@@ -1,3 +1,11 @@
+# Grupo:
+- Rodrigo Fernandes Serafim rm550816
+- Adriano Lopes rm98574
+- Henrique de Brito rm98831
+- Rodrigo Lima rm98326
+- João Antonio rm99656
+
+
 # ⚡ AsyncLab
 
 ## 🧪 Laboratório Async

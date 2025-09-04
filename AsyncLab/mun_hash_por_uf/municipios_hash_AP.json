@@ -1,0 +1,130 @@
+﻿[
+  {
+    "Tom": "601",
+    "Ibge": "1600105",
+    "NomeTom": "AMAP\uFFFD",
+    "NomeIbge": "Amap\uFFFD",
+    "Uf": "AP",
+    "Hash": "d2605e822d0f7c6e7276fc3e2d1c21bed4d52e5308a0d9cd467b3ed945086e0e"
+  },
+  {
+    "Tom": "603",
+    "Ibge": "1600204",
+    "NomeTom": "CAL\uFFFDOENE",
+    "NomeIbge": "Cal\uFFFDoene",
+    "Uf": "AP",
+    "Hash": "9aad438c49df2fbc8be8e6c0601b1189d1723518372a3204184d71ca3bd7d9c8"
+  },
+  {
+    "Tom": "667",
+    "Ibge": "1600212",
+    "NomeTom": "CUTIAS",
+    "NomeIbge": "Cutias",
+    "Uf": "AP",
+    "Hash": "bd2905dc904b53397187f799ba38deb50c6ca094da9e557c4107188091aea441"
+  },
+  {
+    "Tom": "611",
+    "Ibge": "1600238",
+    "NomeTom": "FERREIRA GOMES",
+    "NomeIbge": "Ferreira Gomes",
+    "Uf": "AP",
+    "Hash": "5e23966d1574516ae7328848d70a399ca16d31908ab1d818671cbbadc5d122b1"
+  },
+  {
+    "Tom": "669",
+    "Ibge": "1600253",
+    "NomeTom": "ITAUBAL",
+    "NomeIbge": "Itaubal",
+    "Uf": "AP",
+    "Hash": "b04371ff7fe319d7ec8af154d5a5dfbe86722624d417610557786c004f3b848e"
+  },
+  {
+    "Tom": "613",
+    "Ibge": "1600279",
+    "NomeTom": "LARANJAL DO JARI",
+    "NomeIbge": "Laranjal do Jari",
+    "Uf": "AP",
+    "Hash": "c228dcfa271825e5b950c1c3b5614c3324adaf89f46f0e050bc28b4ab40de15f"
+  },
+  {
+    "Tom": "605",
+    "Ibge": "1600303",
+    "NomeTom": "MACAP\uFFFD",
+    "NomeIbge": "Macap\uFFFD",
+    "Uf": "AP",
+    "Hash": "ec43c932e153869c1f2b8f420b2696d38185b84ba228a80fecd09836f8871dd3"
+  },
+  {
+    "Tom": "607",
+    "Ibge": "1600402",
+    "NomeTom": "MAZAG\uFFFDO",
+    "NomeIbge": "Mazag\uFFFDo",
+    "Uf": "AP",
+    "Hash": "b52dd5596b911d4548358be8e066012cf5bf9ea88200204e2452d06194f15598"
+  },
+  {
+    "Tom": "609",
+    "Ibge": "1600501",
+    "NomeTom": "OIAPOQUE",
+    "NomeIbge": "Oiapoque",
+    "Uf": "AP",
+    "Hash": "44ebaff5ed1479c24668d69db6e6679806e29e108251627aa1a0861f06bea5c4"
+  },
+  {
+    "Tom": "663",
+    "Ibge": "1600154",
+    "NomeTom": "PEDRA BRANCA DO AMAPARI",
+    "NomeIbge": "Pedra Branca do Amapari",
+    "Uf": "AP",
+    "Hash": "e232f7b54944845648a33f8bf6fa99f0d8740792b306fa0b924666e610d999eb"
+  },
+  {
+    "Tom": "671",
+    "Ibge": "1600535",
+    "NomeTom": "PORTO GRANDE",
+    "NomeIbge": "Porto Grande",
+    "Uf": "AP",
+    "Hash": "604bcb86efabb1c7abb4fc041c0c29b9488129538afc491e665612593aa44dbb"
+  },
+  {
+    "Tom": "673",
+    "Ibge": "1600550",
+    "NomeTom": "PRACU\uFFFDBA",
+    "NomeIbge": "Pracu\uFFFDba",
+    "Uf": "AP",
+    "Hash": "b7761403aacb0c6d9e1338bb33bb1b54bcb33d92dbfc952342a6b7794109e243"
+  },
+  {
+    "Tom": "615",
+    "Ibge": "1600600",
+    "NomeTom": "SANTANA",
+    "NomeIbge": "Santana",
+    "Uf": "AP",
+    "Hash": "a4629eca81dab45f01d3d695499dc11a74be83c9dc5d70dd9c684fd86c362094"
+  },
+  {
+    "Tom": "665",
+    "Ibge": "1600055",
+    "NomeTom": "SERRA DO NAVIO",
+    "NomeIbge": "Serra do Navio",
+    "Uf": "AP",
+    "Hash": "08d8af0b8bb86bb85f65cb31400d0738b81c7d2e1a145e07e35aa8c489500175"
+  },
+  {
+    "Tom": "617",
+    "Ibge": "1600709",
+    "NomeTom": "TARTARUGALZINHO",
+    "NomeIbge": "Tartarugalzinho",
+    "Uf": "AP",
+    "Hash": "3a2a36d1700354eac5b3c19c56daa6e9c63fc0ce3f76fe268e7ed92e13803697"
+  },
+  {
+    "Tom": "70",
+    "Ibge": "1600808",
+    "NomeTom": "VIT\uFFFDRIA DO JARI",
+    "NomeIbge": "Vit\uFFFDria do Jari",
+    "Uf": "AP",
+    "Hash": "f1b38c47606704527bbcbe02d795b00ba5de47595df20f49b3a9ac753ca450de"
+  }
+]

@@ -1,0 +1,2362 @@
+﻿[
+  {
+    "Tom": "9939",
+    "Ibge": "4200051",
+    "NomeTom": "ABDON BATISTA",
+    "NomeIbge": "Abdon Batista",
+    "Uf": "SC",
+    "Hash": "0b8aa9ae79e9a1fbc4811cf33556e4e2b433c68892ae66f7e570573fa55881ce"
+  },
+  {
+    "Tom": "8001",
+    "Ibge": "4200101",
+    "NomeTom": "ABELARDO LUZ",
+    "NomeIbge": "Abelardo Luz",
+    "Uf": "SC",
+    "Hash": "3d1474b688a1e566722681bfae97f8c981c88cc230301518d6d9ee4120ae0a99"
+  },
+  {
+    "Tom": "8003",
+    "Ibge": "4200200",
+    "NomeTom": "AGROL\uFFFDNDIA",
+    "NomeIbge": "Agrol\uFFFDndia",
+    "Uf": "SC",
+    "Hash": "219792b2bfb9432db9a473c4c2cc400aafdf797e86d3404c4f378b16b4385a31"
+  },
+  {
+    "Tom": "8005",
+    "Ibge": "4200309",
+    "NomeTom": "AGRON\uFFFDMICA",
+    "NomeIbge": "Agron\uFFFDmica",
+    "Uf": "SC",
+    "Hash": "2b24d207e528b41c3a59e60ff182dd16d9c1fecefc242794daa794ef4e6a8646"
+  },
+  {
+    "Tom": "8013",
+    "Ibge": "4200705",
+    "NomeTom": "ALFREDO WAGNER",
+    "NomeIbge": "Alfredo Wagner",
+    "Uf": "SC",
+    "Hash": "338e7a520de5163a055fe470cb1121b163ae092c67a63b4a023e86593becc8fe"
+  },
+  {
+    "Tom": "886",
+    "Ibge": "4200754",
+    "NomeTom": "ALTO BELA VISTA",
+    "NomeIbge": "Alto Bela Vista",
+    "Uf": "SC",
+    "Hash": "c9745d0c8b6f4aa6415ecbee2e7a833a73b394e10456bf0026a8fb1d5d391549"
+  },
+  {
+    "Tom": "8015",
+    "Ibge": "4200804",
+    "NomeTom": "ANCHIETA",
+    "NomeIbge": "Anchieta",
+    "Uf": "SC",
+    "Hash": "d16ca94280f4ea124c52b4bbe9153bdaa2e7e769372bfb69acff7d23a0d859ed"
+  },
+  {
+    "Tom": "8017",
+    "Ibge": "4200903",
+    "NomeTom": "ANGELINA",
+    "NomeIbge": "Angelina",
+    "Uf": "SC",
+    "Hash": "7591e4a9a4d34106660c2eb48deb92a73c735416687b49144f6ccd9994537a7b"
+  },
+  {
+    "Tom": "8019",
+    "Ibge": "4201000",
+    "NomeTom": "ANITA GARIBALDI",
+    "NomeIbge": "Anita Garibaldi",
+    "Uf": "SC",
+    "Hash": "5346a45f7fb4deea6d86061083191ed348ba481ad44dadfec11330fe7bbacfac"
+  },
+  {
+    "Tom": "8021",
+    "Ibge": "4201109",
+    "NomeTom": "ANIT\uFFFDPOLIS",
+    "NomeIbge": "Anit\uFFFDpolis",
+    "Uf": "SC",
+    "Hash": "ab051a3eda309fc7b55be609d0d8690b3b360d357eb4d816f8e02e339c722c52"
+  },
+  {
+    "Tom": "8023",
+    "Ibge": "4201208",
+    "NomeTom": "ANT\uFFFDNIO CARLOS",
+    "NomeIbge": "Ant\uFFFDnio Carlos",
+    "Uf": "SC",
+    "Hash": "104cd6cf172176eb5d08e0c40ee79a637eb5282694478e6f7c58db26e48253d5"
+  },
+  {
+    "Tom": "9941",
+    "Ibge": "4201257",
+    "NomeTom": "API\uFFFDNA",
+    "NomeIbge": "Api\uFFFDna",
+    "Uf": "SC",
+    "Hash": "6a1989df3f6c050af2aef5c25d264f3644cc6f4edc09996f6e888c12b23c70c2"
+  },
+  {
+    "Tom": "5597",
+    "Ibge": "4201273",
+    "NomeTom": "ARABUT\uFFFD",
+    "NomeIbge": "Arabut\uFFFD",
+    "Uf": "SC",
+    "Hash": "fe0b2612d67b685c8ac2f72c2406e194d767f4d3198370a5c639417e5105556c"
+  },
+  {
+    "Tom": "8025",
+    "Ibge": "4201307",
+    "NomeTom": "ARAQUARI",
+    "NomeIbge": "Araquari",
+    "Uf": "SC",
+    "Hash": "44212780c8853924f673eed1d8c896c1d50c6a513731731671cd2eb6c860a67d"
+  },
+  {
+    "Tom": "8027",
+    "Ibge": "4201406",
+    "NomeTom": "ARARANGU\uFFFD",
+    "NomeIbge": "Ararangu\uFFFD",
+    "Uf": "SC",
+    "Hash": "76f5363502a39dcdd0d393207c887662310bd1c9e73f22a0f3dc927c208db0e6"
+  },
+  {
+    "Tom": "8029",
+    "Ibge": "4201505",
+    "NomeTom": "ARMAZ\uFFFDM",
+    "NomeIbge": "Armaz\uFFFDm",
+    "Uf": "SC",
+    "Hash": "a9742e68c8b4978c39872e74aef006d4ed414b774b9192ef71be1c4d82b064cd"
+  },
+  {
+    "Tom": "8031",
+    "Ibge": "4201604",
+    "NomeTom": "ARROIO TRINTA",
+    "NomeIbge": "Arroio Trinta",
+    "Uf": "SC",
+    "Hash": "143ee833ed964931f78244c7f0a26fc93e14dd5a8a8957a109e9db2d7fc46e82"
+  },
+  {
+    "Tom": "5599",
+    "Ibge": "4201653",
+    "NomeTom": "ARVOREDO",
+    "NomeIbge": "Arvoredo",
+    "Uf": "SC",
+    "Hash": "951fc8859da084625d50be085adde15036a0cbb35b1722c929360f64572a6b6b"
+  },
+  {
+    "Tom": "8033",
+    "Ibge": "4201703",
+    "NomeTom": "ASCURRA",
+    "NomeIbge": "Ascurra",
+    "Uf": "SC",
+    "Hash": "0516b297b6ff826daa8f784b50f63e11dbe8dd2c9f87be14935ff11a281af07f"
+  },
+  {
+    "Tom": "8035",
+    "Ibge": "4201802",
+    "NomeTom": "ATALANTA",
+    "NomeIbge": "Atalanta",
+    "Uf": "SC",
+    "Hash": "a208b96628a8b7f24b169dca08b22427b635fbfa560f70fe831d7119ee789452"
+  },
+  {
+    "Tom": "8037",
+    "Ibge": "4201901",
+    "NomeTom": "AURORA",
+    "NomeIbge": "Aurora",
+    "Uf": "SC",
+    "Hash": "d4774232bf4c77311197727150582620af503fcf4f3adb41170e8ac96099adfd"
+  },
+  {
+    "Tom": "888",
+    "Ibge": "4201950",
+    "NomeTom": "BALNE\uFFFDRIO ARROIO DO SILVA",
+    "NomeIbge": "Balne\uFFFDrio Arroio do Silva",
+    "Uf": "SC",
+    "Hash": "fcb6e6add1aa5e6109520d54f821b14d59992ceb82f87d3fe9737812a39cf701"
+  },
+  {
+    "Tom": "5549",
+    "Ibge": "4202057",
+    "NomeTom": "BALNE\uFFFDRIO BARRA DO SUL",
+    "NomeIbge": "Balne\uFFFDrio Barra do Sul",
+    "Uf": "SC",
+    "Hash": "fe98947c980bcc5891a561fabfef1a3655eddf2f5ba4fba86905d1f9976c5684"
+  },
+  {
+    "Tom": "8039",
+    "Ibge": "4202008",
+    "NomeTom": "BALNE\uFFFDRIO CAMBORI\uFFFD",
+    "NomeIbge": "Balne\uFFFDrio Cambori\uFFFD",
+    "Uf": "SC",
+    "Hash": "e159b505c7f49df3d2be28988272f0063882e695178adc6e714867beb5aac48c"
+  },
+  {
+    "Tom": "890",
+    "Ibge": "4202073",
+    "NomeTom": "BALNE\uFFFDRIO GAIVOTA",
+    "NomeIbge": "Balne\uFFFDrio Gaivota",
+    "Uf": "SC",
+    "Hash": "3e5b2af90a747ba98635c5df6ab80b734ecc7af81f51e3de31f3be0cf744741a"
+  },
+  {
+    "Tom": "8251",
+    "Ibge": "4212809",
+    "NomeTom": "BALNE\uFFFDRIO DE PI\uFFFDARRAS",
+    "NomeIbge": "Balne\uFFFDrio Pi\uFFFDarras",
+    "Uf": "SC",
+    "Hash": "109a30cdff9a708eb7eeca0f18419bf7f11ff95cf3ce6626126432fbb5867197"
+  },
+  {
+    "Tom": "1192",
+    "Ibge": "4220000",
+    "NomeTom": "BALNE\uFFFDRIO RINC\uFFFDO",
+    "NomeIbge": "Balne\uFFFDrio Rinc\uFFFDo",
+    "Uf": "SC",
+    "Hash": "f8c2a7cdaf15c4fb1183afdbfac5bba4855514fc77ec8b114741900751e518f3"
+  },
+  {
+    "Tom": "892",
+    "Ibge": "4202081",
+    "NomeTom": "BANDEIRANTE",
+    "NomeIbge": "Bandeirante",
+    "Uf": "SC",
+    "Hash": "458545f592b5bf6e825dc3459b7a7d40e8056181d655fca3245a6b9a02a64cdd"
+  },
+  {
+    "Tom": "894",
+    "Ibge": "4202099",
+    "NomeTom": "BARRA BONITA",
+    "NomeIbge": "Barra Bonita",
+    "Uf": "SC",
+    "Hash": "525f1b39de45ee0227894d481bfabf80c5cf159b5566a764e6ef67d116e7b2e3"
+  },
+  {
+    "Tom": "8041",
+    "Ibge": "4202107",
+    "NomeTom": "BARRA VELHA",
+    "NomeIbge": "Barra Velha",
+    "Uf": "SC",
+    "Hash": "c5ea671f1f93d042eb54b12a0e9af6a8b1d225a150b3e14061ade1a9ba26d006"
+  },
+  {
+    "Tom": "896",
+    "Ibge": "4202131",
+    "NomeTom": "BELA VISTA DO TOLDO",
+    "NomeIbge": "Bela Vista do Toldo",
+    "Uf": "SC",
+    "Hash": "50373af71d76ea94227ae781161d386398afcf3609d4b051a467b09b9358c729"
+  },
+  {
+    "Tom": "5745",
+    "Ibge": "4202156",
+    "NomeTom": "BELMONTE",
+    "NomeIbge": "Belmonte",
+    "Uf": "SC",
+    "Hash": "39fa4a20e9969ac8c71e1ddfce7b218fcaf62705bc8dffd4004b42466c199e2f"
+  },
+  {
+    "Tom": "8043",
+    "Ibge": "4202206",
+    "NomeTom": "BENEDITO NOVO",
+    "NomeIbge": "Benedito Novo",
+    "Uf": "SC",
+    "Hash": "dad9aeed9d5820d500e59eabbc47233fce8942229054345b4835aece468d58cf"
+  },
+  {
+    "Tom": "8045",
+    "Ibge": "4202305",
+    "NomeTom": "BIGUA\uFFFDU",
+    "NomeIbge": "Bigua\uFFFDu",
+    "Uf": "SC",
+    "Hash": "132fe95689f3fc8f8f4cae2eea69df4e52e34a1e7ab86ead2f8958479e6f0fc0"
+  },
+  {
+    "Tom": "8047",
+    "Ibge": "4202404",
+    "NomeTom": "BLUMENAU",
+    "NomeIbge": "Blumenau",
+    "Uf": "SC",
+    "Hash": "57016f7aade3a21dda7020dec723bc8e27e8b52383ee57e75922d63dafde1398"
+  },
+  {
+    "Tom": "898",
+    "Ibge": "4202438",
+    "NomeTom": "BOCAINA DO SUL",
+    "NomeIbge": "Bocaina do Sul",
+    "Uf": "SC",
+    "Hash": "653c7fa46f9e4bfb774772eecb112bf96d5d5206555f6965afe713559e83536d"
+  },
+  {
+    "Tom": "8389",
+    "Ibge": "4202503",
+    "NomeTom": "BOM JARDIM DA SERRA",
+    "NomeIbge": "Bom Jardim da Serra",
+    "Uf": "SC",
+    "Hash": "28e9491c6794badcee14263c916fd1a5579a5c86c2cd98adf5da16a7152df8bb"
+  },
+  {
+    "Tom": "900",
+    "Ibge": "4202537",
+    "NomeTom": "BOM JESUS",
+    "NomeIbge": "Bom Jesus",
+    "Uf": "SC",
+    "Hash": "007acfa3a3ec42977269adf44dff00426d7d8ff773af020ba4394cb2a297b2af"
+  },
+  {
+    "Tom": "902",
+    "Ibge": "4202578",
+    "NomeTom": "BOM JESUS DO OESTE",
+    "NomeIbge": "Bom Jesus do Oeste",
+    "Uf": "SC",
+    "Hash": "eb1454d9918ca94ac33c4d82730c72fb11b4ce12967c54e62be352c3053d7f08"
+  },
+  {
+    "Tom": "8049",
+    "Ibge": "4202602",
+    "NomeTom": "BOM RETIRO",
+    "NomeIbge": "Bom Retiro",
+    "Uf": "SC",
+    "Hash": "a1bf137f488fc6ebc26dbdc03b6c865e0781c52675fc2a4d542a31bebfe49783"
+  },
+  {
+    "Tom": "5537",
+    "Ibge": "4202453",
+    "NomeTom": "BOMBINHAS",
+    "NomeIbge": "Bombinhas",
+    "Uf": "SC",
+    "Hash": "bdb9c82c4daa4c905bd2b379467451521abc1d78c6a3be834024fec2cbce90f5"
+  },
+  {
+    "Tom": "8051",
+    "Ibge": "4202701",
+    "NomeTom": "BOTUVER\uFFFD",
+    "NomeIbge": "Botuver\uFFFD",
+    "Uf": "SC",
+    "Hash": "3780d788fd07a7e597600c08383c0f0899f2a919956deadc4743076ac1c72438"
+  },
+  {
+    "Tom": "8053",
+    "Ibge": "4202800",
+    "NomeTom": "BRA\uFFFDO DO NORTE",
+    "NomeIbge": "Bra\uFFFDo do Norte",
+    "Uf": "SC",
+    "Hash": "e7f8273fa5fe2f0d8621e21f90a9d10610e70bd7e0949fa27f2512ae19752626"
+  },
+  {
+    "Tom": "5557",
+    "Ibge": "4202859",
+    "NomeTom": "BRA\uFFFDO DO TROMBUDO",
+    "NomeIbge": "Bra\uFFFDo do Trombudo",
+    "Uf": "SC",
+    "Hash": "8728cc8b3be4af870dea1fc001a366cf9256049d830fe6f66d6b2abb73ad71da"
+  },
+  {
+    "Tom": "904",
+    "Ibge": "4202875",
+    "NomeTom": "BRUN\uFFFDPOLIS",
+    "NomeIbge": "Brun\uFFFDpolis",
+    "Uf": "SC",
+    "Hash": "57f194b8c131fd0efa7d686a841a5f90a2f84b4e30bb1e05adb91983f3db21c6"
+  },
+  {
+    "Tom": "8055",
+    "Ibge": "4202909",
+    "NomeTom": "BRUSQUE",
+    "NomeIbge": "Brusque",
+    "Uf": "SC",
+    "Hash": "e434be4464bb18180dd9a50461119e7ecb949974deeda07b14fecc61a542072a"
+  },
+  {
+    "Tom": "8059",
+    "Ibge": "4203105",
+    "NomeTom": "CAIBI",
+    "NomeIbge": "Caibi",
+    "Uf": "SC",
+    "Hash": "43572a9cd65b504f9c439091d3b18f5f26788c9def23b320e2b4015f9876ceec"
+  },
+  {
+    "Tom": "5553",
+    "Ibge": "4203154",
+    "NomeTom": "CALMON",
+    "NomeIbge": "Calmon",
+    "Uf": "SC",
+    "Hash": "2258217bebe64cc7b5d8dfadd23b58209570ffa220ceb8dcfacfdce0f60184de"
+  },
+  {
+    "Tom": "8061",
+    "Ibge": "4203204",
+    "NomeTom": "CAMBORI\uFFFD",
+    "NomeIbge": "Cambori\uFFFD",
+    "Uf": "SC",
+    "Hash": "c6f3696fcb85bc5fe229d6567e372e4203f9e6de2d42c2cf04b4e9f6826622e5"
+  },
+  {
+    "Tom": "8063",
+    "Ibge": "4203303",
+    "NomeTom": "CAMPO ALEGRE",
+    "NomeIbge": "Campo Alegre",
+    "Uf": "SC",
+    "Hash": "42d0da078763abb689cade5bbe86d8f1013fc64bedf95d30b40cb743240d5d51"
+  },
+  {
+    "Tom": "8065",
+    "Ibge": "4203402",
+    "NomeTom": "CAMPO BELO DO SUL",
+    "NomeIbge": "Campo Belo do Sul",
+    "Uf": "SC",
+    "Hash": "e8eb2f6d1f3e7a771c8417e77e3cf2d194f58635d734ccae0d08e966ede91488"
+  },
+  {
+    "Tom": "8067",
+    "Ibge": "4203501",
+    "NomeTom": "CAMPO ER\uFFFD",
+    "NomeIbge": "Campo Er\uFFFD",
+    "Uf": "SC",
+    "Hash": "9f1fce74151aeee087f7bf31adc38266bad19b83aa862c6be0edfd2762ec1088"
+  },
+  {
+    "Tom": "8069",
+    "Ibge": "4203600",
+    "NomeTom": "CAMPOS NOVOS",
+    "NomeIbge": "Campos Novos",
+    "Uf": "SC",
+    "Hash": "23f5cf716ce1ed1c0b52f061936ee76c42708fc54a6aa33ebad9bd6149519dc1"
+  },
+  {
+    "Tom": "8071",
+    "Ibge": "4203709",
+    "NomeTom": "CANELINHA",
+    "NomeIbge": "Canelinha",
+    "Uf": "SC",
+    "Hash": "f2e5c0ec62a42748823e437390d4c22b10fc3e79c7b8c18d68c21a73e4d78558"
+  },
+  {
+    "Tom": "8073",
+    "Ibge": "4203808",
+    "NomeTom": "CANOINHAS",
+    "NomeIbge": "Canoinhas",
+    "Uf": "SC",
+    "Hash": "36f8ef23b2a16730a69214ab4d2f3004a429be1d449aff46115aa2c1486a080b"
+  },
+  {
+    "Tom": "8075",
+    "Ibge": "4203907",
+    "NomeTom": "CAPINZAL",
+    "NomeIbge": "Capinzal",
+    "Uf": "SC",
+    "Hash": "e14102b03db0d64e9bb39f07cfb64bed386043ab0100e7dd880895c47d82147e"
+  },
+  {
+    "Tom": "5545",
+    "Ibge": "4203956",
+    "NomeTom": "CAPIVARI DE BAIXO",
+    "NomeIbge": "Capivari de Baixo",
+    "Uf": "SC",
+    "Hash": "a966a5515f282afb8bd9b6549abbb2444aff2c1fc153788b1255e1367953c98c"
+  },
+  {
+    "Tom": "906",
+    "Ibge": "4203253",
+    "NomeTom": "CAP\uFFFDO ALTO",
+    "NomeIbge": "Cap\uFFFDo Alto",
+    "Uf": "SC",
+    "Hash": "31fa90eddc69dbd6222d893de6e864d5d3e969c8d63b6a457a50d1fffe6be883"
+  },
+  {
+    "Tom": "8077",
+    "Ibge": "4204004",
+    "NomeTom": "CATANDUVAS",
+    "NomeIbge": "Catanduvas",
+    "Uf": "SC",
+    "Hash": "d99dbd81e58c8ae97020ebadecba82b7769db5b5de3dc0d9c35ae3dcbfb200bb"
+  },
+  {
+    "Tom": "8079",
+    "Ibge": "4204103",
+    "NomeTom": "CAXAMBU DO SUL",
+    "NomeIbge": "Caxambu do Sul",
+    "Uf": "SC",
+    "Hash": "dd2c28df9f8d792eb4d001055a68a18997752a38647167695e9fd5901a933d18"
+  },
+  {
+    "Tom": "8057",
+    "Ibge": "4203006",
+    "NomeTom": "CA\uFFFDADOR",
+    "NomeIbge": "Ca\uFFFDador",
+    "Uf": "SC",
+    "Hash": "077f8d98283ad7b436c3cae043eb7cd7babd6b408eb4298eb570411f0b0aaf56"
+  },
+  {
+    "Tom": "9943",
+    "Ibge": "4204152",
+    "NomeTom": "CELSO RAMOS",
+    "NomeIbge": "Celso Ramos",
+    "Uf": "SC",
+    "Hash": "914cbc82eaf4beeb4debaf25c2b5806ca14e07179b351c1b185d61b4178a33ea"
+  },
+  {
+    "Tom": "5567",
+    "Ibge": "4204178",
+    "NomeTom": "CERRO NEGRO",
+    "NomeIbge": "Cerro Negro",
+    "Uf": "SC",
+    "Hash": "8d8d22710b3856d4edc5f809faf48a8575c26060225670378a0efc4a7b14c296"
+  },
+  {
+    "Tom": "908",
+    "Ibge": "4204194",
+    "NomeTom": "CHAPAD\uFFFDO DO LAGEADO",
+    "NomeIbge": "Chapad\uFFFDo do Lageado",
+    "Uf": "SC",
+    "Hash": "6fd587be34fa9cb12abcd2d31042cef8313370c611380857da76c9b624f48293"
+  },
+  {
+    "Tom": "8081",
+    "Ibge": "4204202",
+    "NomeTom": "CHAPEC\uFFFD",
+    "NomeIbge": "Chapec\uFFFD",
+    "Uf": "SC",
+    "Hash": "cf23b0bf9a3da7c154a0d626dee9e4989a0e49635149eeb30f35a546689f3666"
+  },
+  {
+    "Tom": "5543",
+    "Ibge": "4204251",
+    "NomeTom": "COCAL DO SUL",
+    "NomeIbge": "Cocal do Sul",
+    "Uf": "SC",
+    "Hash": "f359f96af79f806eb35dd3d0804ffa68b109fcbe1cd966b66cf2f5d49d8a0aa7"
+  },
+  {
+    "Tom": "8083",
+    "Ibge": "4204301",
+    "NomeTom": "CONC\uFFFDRDIA",
+    "NomeIbge": "Conc\uFFFDrdia",
+    "Uf": "SC",
+    "Hash": "3697bd815274ef5894a4691b2999922c59b7168ecf6d5939f1cb2d67f50b8ef9"
+  },
+  {
+    "Tom": "5579",
+    "Ibge": "4204350",
+    "NomeTom": "CORDILHEIRA ALTA",
+    "NomeIbge": "Cordilheira Alta",
+    "Uf": "SC",
+    "Hash": "929dc1782e3e9b0d43403cf29e35e58cef089fcab913ce79de88b9b6db359920"
+  },
+  {
+    "Tom": "8085",
+    "Ibge": "4204400",
+    "NomeTom": "CORONEL FREITAS",
+    "NomeIbge": "Coronel Freitas",
+    "Uf": "SC",
+    "Hash": "1178cf637faad4775d07d56960c76a77742819552d6c0c50da573d1f96ae1f4a"
+  },
+  {
+    "Tom": "5735",
+    "Ibge": "4204459",
+    "NomeTom": "CORONEL MARTINS",
+    "NomeIbge": "Coronel Martins",
+    "Uf": "SC",
+    "Hash": "d2dc7666579807fc66a918e2cd2d740d672622f096dbc61bd3704685344edacf"
+  },
+  {
+    "Tom": "8395",
+    "Ibge": "4204558",
+    "NomeTom": "CORREIA PINTO",
+    "NomeIbge": "Correia Pinto",
+    "Uf": "SC",
+    "Hash": "47f4658227068f4a0f5a02c5328230517ab5ec5ec38ab472cf9254c0b01bbc16"
+  },
+  {
+    "Tom": "8087",
+    "Ibge": "4204509",
+    "NomeTom": "CORUP\uFFFD",
+    "NomeIbge": "Corup\uFFFD",
+    "Uf": "SC",
+    "Hash": "ea300b4cedb37ba4de47f00af8fb205ffe45d6f9b1c6ec72e9bcdcb5d74e13f9"
+  },
+  {
+    "Tom": "8089",
+    "Ibge": "4204608",
+    "NomeTom": "CRICI\uFFFDMA",
+    "NomeIbge": "Crici\uFFFDma",
+    "Uf": "SC",
+    "Hash": "3957365330a35520e203d8d593bff2cf3d29115ccb2ff613cba6f15e21d7b1c8"
+  },
+  {
+    "Tom": "8091",
+    "Ibge": "4204707",
+    "NomeTom": "CUNHA POR\uFFFD",
+    "NomeIbge": "Cunha Por\uFFFD",
+    "Uf": "SC",
+    "Hash": "0e3a9a7a9525857f8b6f9163d2f51eb7992236afefdc00c59887f9bce1ab29a0"
+  },
+  {
+    "Tom": "910",
+    "Ibge": "4204756",
+    "NomeTom": "CUNHATA\uFFFD",
+    "NomeIbge": "Cunhata\uFFFD",
+    "Uf": "SC",
+    "Hash": "d1a862b68fa28646fb87d8055215bfd2d544edcd6a5bd62a3aae165caf707fc3"
+  },
+  {
+    "Tom": "8093",
+    "Ibge": "4204806",
+    "NomeTom": "CURITIBANOS",
+    "NomeIbge": "Curitibanos",
+    "Uf": "SC",
+    "Hash": "d0b0982daec123c5eda6f41f101b6d3bd25b5494b2f75fbb31a1865666b6a5a6"
+  },
+  {
+    "Tom": "8095",
+    "Ibge": "4204905",
+    "NomeTom": "DESCANSO",
+    "NomeIbge": "Descanso",
+    "Uf": "SC",
+    "Hash": "b6e770b9779152785a714795991162009e4201ee28e948f5e095b5d0b3cfa943"
+  },
+  {
+    "Tom": "8097",
+    "Ibge": "4205001",
+    "NomeTom": "DION\uFFFDSIO CERQUEIRA",
+    "NomeIbge": "Dion\uFFFDsio Cerqueira",
+    "Uf": "SC",
+    "Hash": "a1b368b88e60a57e557cd8014bf0e7d26e0aae9c8a688d66d02cb6c56c00be34"
+  },
+  {
+    "Tom": "8099",
+    "Ibge": "4205100",
+    "NomeTom": "DONA EMMA",
+    "NomeIbge": "Dona Emma",
+    "Uf": "SC",
+    "Hash": "8898951df7d058cd8a3d6cc9b87b48ca9ac90b106df79eed97fc18f0b8e04098"
+  },
+  {
+    "Tom": "9945",
+    "Ibge": "4205159",
+    "NomeTom": "DOUTOR PEDRINHO",
+    "NomeIbge": "Doutor Pedrinho",
+    "Uf": "SC",
+    "Hash": "7d30717ea7c98cfff2cb46a6e33b62e26eb9f5a052788fa11afffad9b1bbd933"
+  },
+  {
+    "Tom": "912",
+    "Ibge": "4205175",
+    "NomeTom": "ENTRE RIOS",
+    "NomeIbge": "Entre Rios",
+    "Uf": "SC",
+    "Hash": "2b8b4ba5c9cd5613ce556ca39e39cab1bbc85b8e9ae3fec65026bd2c0611217f"
+  },
+  {
+    "Tom": "914",
+    "Ibge": "4205191",
+    "NomeTom": "ERMO",
+    "NomeIbge": "Ermo",
+    "Uf": "SC",
+    "Hash": "06fcca433135b5d3f52f4f3acc0cd2367ae2935642d4928d76f760ed6910bc7d"
+  },
+  {
+    "Tom": "8101",
+    "Ibge": "4205209",
+    "NomeTom": "ERVAL VELHO",
+    "NomeIbge": "Erval Velho",
+    "Uf": "SC",
+    "Hash": "e474f74d1e1f71f0c80ff229fbc9d9dc21878fcb80ac1c3cf06e054bd69e36e4"
+  },
+  {
+    "Tom": "8103",
+    "Ibge": "4205308",
+    "NomeTom": "FAXINAL DOS GUEDES",
+    "NomeIbge": "Faxinal dos Guedes",
+    "Uf": "SC",
+    "Hash": "d9df6f36e4ab40b34118accc48e97b1de7e27f61876ce34e058ab539b9facf4f"
+  },
+  {
+    "Tom": "916",
+    "Ibge": "4205357",
+    "NomeTom": "FLOR DO SERT\uFFFDO",
+    "NomeIbge": "Flor do Sert\uFFFDo",
+    "Uf": "SC",
+    "Hash": "2e1b25a72448d650cc822fd58d8f36590f12a02820b52cdf001f20dba321cc4d"
+  },
+  {
+    "Tom": "8105",
+    "Ibge": "4205407",
+    "NomeTom": "FLORIAN\uFFFDPOLIS",
+    "NomeIbge": "Florian\uFFFDpolis",
+    "Uf": "SC",
+    "Hash": "00961b580b795b398a61e5be703abb582c1739f585494aff04d71e16b8b8aab8"
+  },
+  {
+    "Tom": "5581",
+    "Ibge": "4205431",
+    "NomeTom": "FORMOSA DO SUL",
+    "NomeIbge": "Formosa do Sul",
+    "Uf": "SC",
+    "Hash": "04a6bf414430521dc195421170ca9dc9212e4326ca29a987ef2ab6a7d84cbe60"
+  },
+  {
+    "Tom": "973",
+    "Ibge": "4205456",
+    "NomeTom": "FORQUILHINHA",
+    "NomeIbge": "Forquilhinha",
+    "Uf": "SC",
+    "Hash": "3369adfe95e36c45fdc782a1f2e5e75dff1061a8b87d9194e27af5f2e74668d1"
+  },
+  {
+    "Tom": "8107",
+    "Ibge": "4205506",
+    "NomeTom": "FRAIBURGO",
+    "NomeIbge": "Fraiburgo",
+    "Uf": "SC",
+    "Hash": "ce266e9f878227361dd8c244f2abb9fc92a4e490a56264f2a568d24d2093299c"
+  },
+  {
+    "Tom": "918",
+    "Ibge": "4205555",
+    "NomeTom": "FREI ROG\uFFFDRIO",
+    "NomeIbge": "Frei Rog\uFFFDrio",
+    "Uf": "SC",
+    "Hash": "5e255f1fe7624a35f59a816948294ebbeeac41a82cdddab119798cd17b3f67b7"
+  },
+  {
+    "Tom": "8109",
+    "Ibge": "4205605",
+    "NomeTom": "GALV\uFFFDO",
+    "NomeIbge": "Galv\uFFFDo",
+    "Uf": "SC",
+    "Hash": "9d3adce7d13fda578dbe1eb0d02dae0cea51451ef211e4a82c457216d465aea8"
+  },
+  {
+    "Tom": "8113",
+    "Ibge": "4205704",
+    "NomeTom": "GAROPABA",
+    "NomeIbge": "Garopaba",
+    "Uf": "SC",
+    "Hash": "a56361c43654a7ed5972c721ac56728fa3528e31bea5373459b1bba580afee41"
+  },
+  {
+    "Tom": "8115",
+    "Ibge": "4205803",
+    "NomeTom": "GARUVA",
+    "NomeIbge": "Garuva",
+    "Uf": "SC",
+    "Hash": "fc12a6b3a5602f6dc10a9a01dbef100e68095381a344b734605b5ed45a86b316"
+  },
+  {
+    "Tom": "8117",
+    "Ibge": "4205902",
+    "NomeTom": "GASPAR",
+    "NomeIbge": "Gaspar",
+    "Uf": "SC",
+    "Hash": "edd089e4eedb9cf58af74688c22f7fd829faadab4fbcb065cd1e5c4c5ccace39"
+  },
+  {
+    "Tom": "8111",
+    "Ibge": "4206009",
+    "NomeTom": "GOVERNADOR CELSO RAMOS",
+    "NomeIbge": "Governador Celso Ramos",
+    "Uf": "SC",
+    "Hash": "2ecce99c3caea3fad6bc4c455ea1fa43a20ccd58dcd77fe52f88efb0c5f3b1e5"
+  },
+  {
+    "Tom": "8121",
+    "Ibge": "4206207",
+    "NomeTom": "GRAVATAL",
+    "NomeIbge": "Gravatal",
+    "Uf": "SC",
+    "Hash": "01f5da06e0afc43ede15210a7651af7f769a21fc1fd3c2472d1fefd081f65c93"
+  },
+  {
+    "Tom": "8119",
+    "Ibge": "4206108",
+    "NomeTom": "GR\uFFFDO PAR\uFFFD",
+    "NomeIbge": "Gr\uFFFDo-Par\uFFFD",
+    "Uf": "SC",
+    "Hash": "66cd00c29d2425479f899d82d999f25117c005a6e4fdbe00c546d399c690e32c"
+  },
+  {
+    "Tom": "8123",
+    "Ibge": "4206306",
+    "NomeTom": "GUABIRUBA",
+    "NomeIbge": "Guabiruba",
+    "Uf": "SC",
+    "Hash": "e9b39976a19d4e6e3ef48d0daf2fe074e3b605454a0fce7bcc03589ac1ac2fec"
+  },
+  {
+    "Tom": "8125",
+    "Ibge": "4206405",
+    "NomeTom": "GUARACIABA",
+    "NomeIbge": "Guaraciaba",
+    "Uf": "SC",
+    "Hash": "3ef6ae32b8465c34eb71c792c18f8c0d27c03f497c1b5243228fa7f9e353eee1"
+  },
+  {
+    "Tom": "8127",
+    "Ibge": "4206504",
+    "NomeTom": "GUARAMIRIM",
+    "NomeIbge": "Guaramirim",
+    "Uf": "SC",
+    "Hash": "0f17e945696ca6124e1c52aa3d3d291121f9a6f7c58283816caac848c7098199"
+  },
+  {
+    "Tom": "8129",
+    "Ibge": "4206603",
+    "NomeTom": "GUARUJ\uFFFD DO SUL",
+    "NomeIbge": "Guaruj\uFFFD do Sul",
+    "Uf": "SC",
+    "Hash": "5db4640150f0e96114c5d4615d0dab3ab1f7a5440d29144ba04e17900afeab1f"
+  },
+  {
+    "Tom": "5583",
+    "Ibge": "4206652",
+    "NomeTom": "GUATAMB\uFFFD",
+    "NomeIbge": "Guatamb\uFFFD",
+    "Uf": "SC",
+    "Hash": "daf78b9e92942d08f5aa60453f8ec1e723b8b0c071a2e841fe7d1d96f59b77e0"
+  },
+  {
+    "Tom": "8131",
+    "Ibge": "4206702",
+    "NomeTom": "HERVAL D\u0027OESTE",
+    "NomeIbge": "Herval d\u0027Oeste",
+    "Uf": "SC",
+    "Hash": "31a1b5ea7a112868e6db80a9672f60f5bc9853dcc84409c4975c29afbcec6c60"
+  },
+  {
+    "Tom": "920",
+    "Ibge": "4206751",
+    "NomeTom": "IBIAM",
+    "NomeIbge": "Ibiam",
+    "Uf": "SC",
+    "Hash": "5f9a73c051bf4e6a15299b7fee6130ff2f4615db80d2b161603814a333e51c49"
+  },
+  {
+    "Tom": "8133",
+    "Ibge": "4206801",
+    "NomeTom": "IBICAR\uFFFD",
+    "NomeIbge": "Ibicar\uFFFD",
+    "Uf": "SC",
+    "Hash": "15676e0cc0d4a4e85191deb698dc57967e10bac900e211135ad6eb7968a4846b"
+  },
+  {
+    "Tom": "8135",
+    "Ibge": "4206900",
+    "NomeTom": "IBIRAMA",
+    "NomeIbge": "Ibirama",
+    "Uf": "SC",
+    "Hash": "15cb181aba8a6e57ce4acf29dc42cd5bef38c37d76b47afa258bf5631fd7d4de"
+  },
+  {
+    "Tom": "8139",
+    "Ibge": "4207106",
+    "NomeTom": "ILHOTA",
+    "NomeIbge": "Ilhota",
+    "Uf": "SC",
+    "Hash": "eed0967f045db6db1c8845df6208a639c61e28e2292e591139d9f9bb6397a5b1"
+  },
+  {
+    "Tom": "8141",
+    "Ibge": "4207205",
+    "NomeTom": "IMARU\uFFFD",
+    "NomeIbge": "Imaru\uFFFD",
+    "Uf": "SC",
+    "Hash": "ff67dd45bfc3a817203b6ce0910da834db72e15162a5df524fabdf6bf834b1c1"
+  },
+  {
+    "Tom": "8143",
+    "Ibge": "4207304",
+    "NomeTom": "IMBITUBA",
+    "NomeIbge": "Imbituba",
+    "Uf": "SC",
+    "Hash": "8be8f5250d69b1d20203d8ebf2b8868d0963c6d6f4af05a1cb3da2cc57309c2e"
+  },
+  {
+    "Tom": "8145",
+    "Ibge": "4207403",
+    "NomeTom": "IMBUIA",
+    "NomeIbge": "Imbuia",
+    "Uf": "SC",
+    "Hash": "8f1660be950f8f6ded20aaa2bd7afea96c8487b39ef53399d4def5b1fbb1660e"
+  },
+  {
+    "Tom": "8147",
+    "Ibge": "4207502",
+    "NomeTom": "INDAIAL",
+    "NomeIbge": "Indaial",
+    "Uf": "SC",
+    "Hash": "5783a59f7fdf4e019b821732179a4a1557274280d34aa400c52f6c5156fb451f"
+  },
+  {
+    "Tom": "922",
+    "Ibge": "4207577",
+    "NomeTom": "IOMER\uFFFD",
+    "NomeIbge": "Iomer\uFFFD",
+    "Uf": "SC",
+    "Hash": "cc3137d86cce2bbe54ea087e5e953c4cd4e162fd40f0e207ede7d4b50aa43e74"
+  },
+  {
+    "Tom": "8149",
+    "Ibge": "4207601",
+    "NomeTom": "IPIRA",
+    "NomeIbge": "Ipira",
+    "Uf": "SC",
+    "Hash": "a5960ebe425f537a7f51e6d8bd158c1afdd162b77f629c3f2efbac67ac54f388"
+  },
+  {
+    "Tom": "9951",
+    "Ibge": "4207650",
+    "NomeTom": "IPOR\uFFFD DO OESTE",
+    "NomeIbge": "Ipor\uFFFD do Oeste",
+    "Uf": "SC",
+    "Hash": "9be0b0bdbfbc7e0671ccfda317f3f9fe422c04530ebae6a7fe7f558fbe46a02f"
+  },
+  {
+    "Tom": "5737",
+    "Ibge": "4207684",
+    "NomeTom": "IPUA\uFFFDU",
+    "NomeIbge": "Ipua\uFFFDu",
+    "Uf": "SC",
+    "Hash": "15f39ff6107b0caf56250233c35f6d7278272ac6acfb826f22128e23d23e58b6"
+  },
+  {
+    "Tom": "8151",
+    "Ibge": "4207700",
+    "NomeTom": "IPUMIRIM",
+    "NomeIbge": "Ipumirim",
+    "Uf": "SC",
+    "Hash": "ad1b4cdc47bbbdf4eec9f2bca1cfa16b0a6462a8e99fdfeeecbad8cb030ac466"
+  },
+  {
+    "Tom": "9953",
+    "Ibge": "4207759",
+    "NomeTom": "IRACEMINHA",
+    "NomeIbge": "Iraceminha",
+    "Uf": "SC",
+    "Hash": "f901ad504712aba708e8bd96497f6d2c7cef48ec78586bb3bf9288de21e9eaa9"
+  },
+  {
+    "Tom": "8153",
+    "Ibge": "4207809",
+    "NomeTom": "IRANI",
+    "NomeIbge": "Irani",
+    "Uf": "SC",
+    "Hash": "57cc88369fad8afa131e40385f49384df2a229fb4e11465ba962d93e0bd9d581"
+  },
+  {
+    "Tom": "5585",
+    "Ibge": "4207858",
+    "NomeTom": "IRATI",
+    "NomeIbge": "Irati",
+    "Uf": "SC",
+    "Hash": "fea85741606a3884004c29fa3b0966a52e3dbf581a942051f67367232fcbf459"
+  },
+  {
+    "Tom": "8155",
+    "Ibge": "4207908",
+    "NomeTom": "IRINE\uFFFDPOLIS",
+    "NomeIbge": "Irine\uFFFDpolis",
+    "Uf": "SC",
+    "Hash": "212c3ab98734547b799b0c26c73777693944bcd49da2aecf4697c9f5ed0b3213"
+  },
+  {
+    "Tom": "8159",
+    "Ibge": "4208104",
+    "NomeTom": "ITAI\uFFFDPOLIS",
+    "NomeIbge": "Itai\uFFFDpolis",
+    "Uf": "SC",
+    "Hash": "c9ad7bf342890fadcf18b4f905b7945fd24be851f939f3d71513e7a427f917ee"
+  },
+  {
+    "Tom": "8161",
+    "Ibge": "4208203",
+    "NomeTom": "ITAJA\uFFFD",
+    "NomeIbge": "Itaja\uFFFD",
+    "Uf": "SC",
+    "Hash": "2c2bf5e76261506868632e7c7888dcb255c261b881017aa02678e52fadecadab"
+  },
+  {
+    "Tom": "8163",
+    "Ibge": "4208302",
+    "NomeTom": "ITAPEMA",
+    "NomeIbge": "Itapema",
+    "Uf": "SC",
+    "Hash": "ed967ff2ee362e6191006573b5179b8fb81209245fe1505a5e2db816ba6941a9"
+  },
+  {
+    "Tom": "8165",
+    "Ibge": "4208401",
+    "NomeTom": "ITAPIRANGA",
+    "NomeIbge": "Itapiranga",
+    "Uf": "SC",
+    "Hash": "a3b58f75258b21203afcb11522cecc1158be9efe4c62179231bdf0d097f76a20"
+  },
+  {
+    "Tom": "9985",
+    "Ibge": "4208450",
+    "NomeTom": "ITAPO\uFFFD",
+    "NomeIbge": "Itapo\uFFFD",
+    "Uf": "SC",
+    "Hash": "fa31f47b4c63d836d567232cf0ec3cb1bea24a1bfb4877f1a4cedbd14dfd1c70"
+  },
+  {
+    "Tom": "8167",
+    "Ibge": "4208500",
+    "NomeTom": "ITUPORANGA",
+    "NomeIbge": "Ituporanga",
+    "Uf": "SC",
+    "Hash": "957ad66d3709bd4acfb7c01485376d05c6040a6cc7aa356090e4d73790565ef6"
+  },
+  {
+    "Tom": "8157",
+    "Ibge": "4208005",
+    "NomeTom": "IT\uFFFD",
+    "NomeIbge": "It\uFFFD",
+    "Uf": "SC",
+    "Hash": "2bdbc20381d45a24c0a7b18065685c006688503f50531b3a0db2f218a1207f00"
+  },
+  {
+    "Tom": "8137",
+    "Ibge": "4207007",
+    "NomeTom": "I\uFFFDARA",
+    "NomeIbge": "I\uFFFDara",
+    "Uf": "SC",
+    "Hash": "278a43cf91207a4aa5bb11335d79e1ccb8e933e91506df57b6f922e74f6dc03f"
+  },
+  {
+    "Tom": "8169",
+    "Ibge": "4208609",
+    "NomeTom": "JABOR\uFFFD",
+    "NomeIbge": "Jabor\uFFFD",
+    "Uf": "SC",
+    "Hash": "8c8cc0b5c09959365ae92aff6e4021a82f779ffc336032acd18273398cdb16ed"
+  },
+  {
+    "Tom": "8171",
+    "Ibge": "4208708",
+    "NomeTom": "JACINTO MACHADO",
+    "NomeIbge": "Jacinto Machado",
+    "Uf": "SC",
+    "Hash": "ecd392999e922e47ac439155d5da4c3d96fa443af00e251f8b219c38a52b4fd9"
+  },
+  {
+    "Tom": "8173",
+    "Ibge": "4208807",
+    "NomeTom": "JAGUARUNA",
+    "NomeIbge": "Jaguaruna",
+    "Uf": "SC",
+    "Hash": "e4e23c758b03a38f412cb16c75c3b00070557d166d9d26be16d9eace23199d5f"
+  },
+  {
+    "Tom": "8175",
+    "Ibge": "4208906",
+    "NomeTom": "JARAGU\uFFFD DO SUL",
+    "NomeIbge": "Jaragu\uFFFD do Sul",
+    "Uf": "SC",
+    "Hash": "54700a95a2a3784b4931d6124e4883bb3e7a13ef194f2d33ce3b935ae2636eb6"
+  },
+  {
+    "Tom": "5587",
+    "Ibge": "4208955",
+    "NomeTom": "JARDIN\uFFFDPOLIS",
+    "NomeIbge": "Jardin\uFFFDpolis",
+    "Uf": "SC",
+    "Hash": "06b11704015b5fa9f275818dfd32eb4474ae34343e1e3762dc988325c36d2ce3"
+  },
+  {
+    "Tom": "8177",
+    "Ibge": "4209003",
+    "NomeTom": "JOA\uFFFDABA",
+    "NomeIbge": "Joa\uFFFDaba",
+    "Uf": "SC",
+    "Hash": "e06a4653e515c67d69201f93a58a1a3fa23d5d1b03b20d4c6d6b54f584932760"
+  },
+  {
+    "Tom": "8179",
+    "Ibge": "4209102",
+    "NomeTom": "JOINVILLE",
+    "NomeIbge": "Joinville",
+    "Uf": "SC",
+    "Hash": "e90d8b5aeb6a0c5bbcde41e388bdd8ef7fdfe0cc8bc9b75b4e3ef6adaaff8759"
+  },
+  {
+    "Tom": "9957",
+    "Ibge": "4209151",
+    "NomeTom": "JOS\uFFFD BOITEUX",
+    "NomeIbge": "Jos\uFFFD Boiteux",
+    "Uf": "SC",
+    "Hash": "d9e7a26b0b50ceee9ef21f80c79390ad1d050d9269956ade9a01b066c4edc4f8"
+  },
+  {
+    "Tom": "924",
+    "Ibge": "4209177",
+    "NomeTom": "JUPI\uFFFD",
+    "NomeIbge": "Jupi\uFFFD",
+    "Uf": "SC",
+    "Hash": "0d9942681255cfd5c82ee19f790ad27c4121e65509b3b3896f7e889eba555a27"
+  },
+  {
+    "Tom": "8181",
+    "Ibge": "4209201",
+    "NomeTom": "LACERD\uFFFDPOLIS",
+    "NomeIbge": "Lacerd\uFFFDpolis",
+    "Uf": "SC",
+    "Hash": "db2ea9954e68a79a96055cf187ee04fc92040d0254fb3dc2f6c32c3243bb7bb4"
+  },
+  {
+    "Tom": "8183",
+    "Ibge": "4209300",
+    "NomeTom": "LAGES",
+    "NomeIbge": "Lages",
+    "Uf": "SC",
+    "Hash": "73737f4233f49315452c1281d11edb28efb726750f53a0e78a35a7796e8d3f33"
+  },
+  {
+    "Tom": "8185",
+    "Ibge": "4209409",
+    "NomeTom": "LAGUNA",
+    "NomeIbge": "Laguna",
+    "Uf": "SC",
+    "Hash": "5d5ade15ef1fc2d59d9ddcf9277d8fe00c51226404078e09cd411c6417d9bf02"
+  },
+  {
+    "Tom": "5739",
+    "Ibge": "4209458",
+    "NomeTom": "Lajeado Grande",
+    "NomeIbge": "Lajeado Grande",
+    "Uf": "SC",
+    "Hash": "9aadfa35d37a8a850a78cc9b1b899288cdb2648c77fbd3813547495abc7aeb00"
+  },
+  {
+    "Tom": "8187",
+    "Ibge": "4209508",
+    "NomeTom": "LAURENTINO",
+    "NomeIbge": "Laurentino",
+    "Uf": "SC",
+    "Hash": "8ff0db7ab6791e5963091e23a85393c19465367f918b0942a445b4f7840e4cd1"
+  },
+  {
+    "Tom": "8189",
+    "Ibge": "4209607",
+    "NomeTom": "LAURO MULLER",
+    "NomeIbge": "Lauro M\uFFFDller",
+    "Uf": "SC",
+    "Hash": "21a744f021245b60a023d40f9a16c5213bee1246f7f91b2e35eb860dd76ef021"
+  },
+  {
+    "Tom": "8191",
+    "Ibge": "4209706",
+    "NomeTom": "LEBON R\uFFFDGIS",
+    "NomeIbge": "Lebon R\uFFFDgis",
+    "Uf": "SC",
+    "Hash": "abb479274fa7f94a70b3634de0baf29c041dfbae07bfb81040051b5ad7548621"
+  },
+  {
+    "Tom": "8193",
+    "Ibge": "4209805",
+    "NomeTom": "LEOBERTO LEAL",
+    "NomeIbge": "Leoberto Leal",
+    "Uf": "SC",
+    "Hash": "4ed0e28f37107d5110cf121dd6b792a1b0a5b7a7659d9d778dab3da6d3cdd0d1"
+  },
+  {
+    "Tom": "9961",
+    "Ibge": "4209854",
+    "NomeTom": "LIND\uFFFDIA DO SUL",
+    "NomeIbge": "Lind\uFFFDia do Sul",
+    "Uf": "SC",
+    "Hash": "8bb92101faff605d9f6d77f0080e4b0eddcdea1339e0e4719a478c64641ba68f"
+  },
+  {
+    "Tom": "8195",
+    "Ibge": "4209904",
+    "NomeTom": "LONTRAS",
+    "NomeIbge": "Lontras",
+    "Uf": "SC",
+    "Hash": "96e815cf9d5001c7142f179dcec6c7e1750c34ca123c1d0db27cc314fdfb1b64"
+  },
+  {
+    "Tom": "8197",
+    "Ibge": "4210001",
+    "NomeTom": "LUIZ ALVES",
+    "NomeIbge": "Luiz Alves",
+    "Uf": "SC",
+    "Hash": "119be7e12bd188a68a72dab25039cbc5e88d61f7c1b66acf86cab7feb6f16cba"
+  },
+  {
+    "Tom": "926",
+    "Ibge": "4210035",
+    "NomeTom": "LUZERNA",
+    "NomeIbge": "Luzerna",
+    "Uf": "SC",
+    "Hash": "d7a9dd33bee1b0bbd6b9c3e42b83eea4b4a75d12c0878e9b4595c9af4303a621"
+  },
+  {
+    "Tom": "5575",
+    "Ibge": "4210050",
+    "NomeTom": "MACIEIRA",
+    "NomeIbge": "Macieira",
+    "Uf": "SC",
+    "Hash": "7a3e1577550731175ca3c66d4e69a52b96ffc4629e77d1c2f1ac0ea93ec0b6cf"
+  },
+  {
+    "Tom": "8199",
+    "Ibge": "4210100",
+    "NomeTom": "MAFRA",
+    "NomeIbge": "Mafra",
+    "Uf": "SC",
+    "Hash": "97ccbd15b44a9846004d12f5dff4c3fb7cc7c76b6ad917991e78127f1fc063d5"
+  },
+  {
+    "Tom": "8201",
+    "Ibge": "4210209",
+    "NomeTom": "MAJOR GERCINO",
+    "NomeIbge": "Major Gercino",
+    "Uf": "SC",
+    "Hash": "1031578feea859ee43c34638b6d2d3ce239841c4b3c9d31cd592e1910da916b3"
+  },
+  {
+    "Tom": "8203",
+    "Ibge": "4210308",
+    "NomeTom": "MAJOR VIEIRA",
+    "NomeIbge": "Major Vieira",
+    "Uf": "SC",
+    "Hash": "29de07fede0dea5bc4a979b45be6134e685dce1c8f465a38e1f339f3f51e987b"
+  },
+  {
+    "Tom": "8391",
+    "Ibge": "4210407",
+    "NomeTom": "MARACAJ\uFFFD",
+    "NomeIbge": "Maracaj\uFFFD",
+    "Uf": "SC",
+    "Hash": "34473d649e48aab712c258d123cafa6afb626e8cc54e7c3e4e5c5843acba0c6c"
+  },
+  {
+    "Tom": "8205",
+    "Ibge": "4210506",
+    "NomeTom": "MARAVILHA",
+    "NomeIbge": "Maravilha",
+    "Uf": "SC",
+    "Hash": "6d0d8ca2c8e40c50afa2c989b28df243ad9be6409969f9fc5eee77c81662c31e"
+  },
+  {
+    "Tom": "9963",
+    "Ibge": "4210555",
+    "NomeTom": "MAREMA",
+    "NomeIbge": "Marema",
+    "Uf": "SC",
+    "Hash": "0e44999e4153a594ad971e3f2f5f65c77354cd770d0b38775faee6b8b511f583"
+  },
+  {
+    "Tom": "8207",
+    "Ibge": "4210605",
+    "NomeTom": "MASSARANDUBA",
+    "NomeIbge": "Massaranduba",
+    "Uf": "SC",
+    "Hash": "6de49b6acca1406fe24db3a5d724b68fedcee7f05d78f7397dcd69430d039e57"
+  },
+  {
+    "Tom": "8209",
+    "Ibge": "4210704",
+    "NomeTom": "MATOS COSTA",
+    "NomeIbge": "Matos Costa",
+    "Uf": "SC",
+    "Hash": "f7fb4d21c666e1b494ce1402369ac60e035dbe03604e23445372932b1b0ae109"
+  },
+  {
+    "Tom": "8211",
+    "Ibge": "4210803",
+    "NomeTom": "MELEIRO",
+    "NomeIbge": "Meleiro",
+    "Uf": "SC",
+    "Hash": "a982ab20573edaf960442da5835c65fee8ecf5ead9c0443e304ef73882bf92ab"
+  },
+  {
+    "Tom": "5559",
+    "Ibge": "4210852",
+    "NomeTom": "MIRIM DOCE",
+    "NomeIbge": "Mirim Doce",
+    "Uf": "SC",
+    "Hash": "28382bd7cf1026f71cbc6f636888f8d3d85d1291f3b5703a02d080af5ec7df5a"
+  },
+  {
+    "Tom": "8213",
+    "Ibge": "4210902",
+    "NomeTom": "MODELO",
+    "NomeIbge": "Modelo",
+    "Uf": "SC",
+    "Hash": "8209bad730e12eb1ce99e011cc27ca19a60e510f4ddc6907717069c8fb1841e9"
+  },
+  {
+    "Tom": "8215",
+    "Ibge": "4211009",
+    "NomeTom": "MONDA\uFFFD",
+    "NomeIbge": "Monda\uFFFD",
+    "Uf": "SC",
+    "Hash": "6c01677cdcae58feaee6789133f905378007b00af9f385c7c245f84c6e2eb2a5"
+  },
+  {
+    "Tom": "5561",
+    "Ibge": "4211058",
+    "NomeTom": "MONTE CARLO",
+    "NomeIbge": "Monte Carlo",
+    "Uf": "SC",
+    "Hash": "8ad5aef9086f04730be039857eb7449db6a5b990895520f0095c0550cfc61ec9"
+  },
+  {
+    "Tom": "8217",
+    "Ibge": "4211108",
+    "NomeTom": "MONTE CASTELO",
+    "NomeIbge": "Monte Castelo",
+    "Uf": "SC",
+    "Hash": "090e71600f55d01a3e3f24a18cd4ef3d1336c51283919c443b7bd2c54e187d37"
+  },
+  {
+    "Tom": "8219",
+    "Ibge": "4211207",
+    "NomeTom": "MORRO DA FUMA\uFFFDA",
+    "NomeIbge": "Morro da Fuma\uFFFDa",
+    "Uf": "SC",
+    "Hash": "464d216e058a2ce275679d8e89407ac5dc6d29966adc8d91fa621fe06231fd81"
+  },
+  {
+    "Tom": "5539",
+    "Ibge": "4211256",
+    "NomeTom": "MORRO GRANDE",
+    "NomeIbge": "Morro Grande",
+    "Uf": "SC",
+    "Hash": "4fcd9b7a8630193b8741d066d159b7e64fc2fa33654d3079510f468e8dd17cb4"
+  },
+  {
+    "Tom": "8221",
+    "Ibge": "4211306",
+    "NomeTom": "NAVEGANTES",
+    "NomeIbge": "Navegantes",
+    "Uf": "SC",
+    "Hash": "d899ef366029091995678d08082f2c45cda8e2a2a55dc4fdadb27a1aa9906a40"
+  },
+  {
+    "Tom": "8223",
+    "Ibge": "4211405",
+    "NomeTom": "NOVA ERECHIM",
+    "NomeIbge": "Nova Erechim",
+    "Uf": "SC",
+    "Hash": "48ba7136f84ec28923489ebfa36324e0d5693529b5193677abc661427c2a305e"
+  },
+  {
+    "Tom": "5589",
+    "Ibge": "4211454",
+    "NomeTom": "NOVA ITABERABA",
+    "NomeIbge": "Nova Itaberaba",
+    "Uf": "SC",
+    "Hash": "a3f94bcda70ae185f2b12528c4f4915886012c95e178347e6ff1dcc734694b68"
+  },
+  {
+    "Tom": "8225",
+    "Ibge": "4211504",
+    "NomeTom": "NOVA TRENTO",
+    "NomeIbge": "Nova Trento",
+    "Uf": "SC",
+    "Hash": "e6b21c57e33a8dd995a0a9aa55e46f5d646a3eee933e2e8cae722bc39713b92b"
+  },
+  {
+    "Tom": "8227",
+    "Ibge": "4211603",
+    "NomeTom": "NOVA VENEZA",
+    "NomeIbge": "Nova Veneza",
+    "Uf": "SC",
+    "Hash": "f2ad444beb4d5a859ddb8362e1ab1a12847b8478331388408d830543e37b8047"
+  },
+  {
+    "Tom": "5591",
+    "Ibge": "4211652",
+    "NomeTom": "NOVO HORIZONTE",
+    "NomeIbge": "Novo Horizonte",
+    "Uf": "SC",
+    "Hash": "a53d9cdabeac0d2a3ffc47c10e8dc823f050dd2dc43984a03e3b9ec6bf1afae3"
+  },
+  {
+    "Tom": "8229",
+    "Ibge": "4211702",
+    "NomeTom": "ORLEANS",
+    "NomeIbge": "Orleans",
+    "Uf": "SC",
+    "Hash": "12ec7ab756000f6aba7746a390ac45bc8c285bda2b42a86388587c55314cdb85"
+  },
+  {
+    "Tom": "8397",
+    "Ibge": "4211751",
+    "NomeTom": "OTAC\uFFFDLIO COSTA",
+    "NomeIbge": "Otac\uFFFDlio Costa",
+    "Uf": "SC",
+    "Hash": "8ba10046c8a574f3ed3fd6107bdf6fcdfe5d54ba5a5104cc414a76fa0b7144ff"
+  },
+  {
+    "Tom": "8231",
+    "Ibge": "4211801",
+    "NomeTom": "OURO",
+    "NomeIbge": "Ouro",
+    "Uf": "SC",
+    "Hash": "f4c508505156df43cb9c40f410a7f251c8d790e22e2cfbf6d6567f8dbe970c35"
+  },
+  {
+    "Tom": "5741",
+    "Ibge": "4211850",
+    "NomeTom": "OURO VERDE",
+    "NomeIbge": "Ouro Verde",
+    "Uf": "SC",
+    "Hash": "b3fcd4214d77e43f3bc5a7704a454552c8d152b6d7ae9faa0731d3b46bb95e37"
+  },
+  {
+    "Tom": "928",
+    "Ibge": "4211876",
+    "NomeTom": "PAIAL",
+    "NomeIbge": "Paial",
+    "Uf": "SC",
+    "Hash": "8c3198231413aec0089765bd11200611202c682605b886704198587b069e7ae5"
+  },
+  {
+    "Tom": "930",
+    "Ibge": "4211892",
+    "NomeTom": "PAINEL",
+    "NomeIbge": "Painel",
+    "Uf": "SC",
+    "Hash": "293bfe9e493181aab54dad469f5cec68073294a71bc2e6d33ca94eec654f4643"
+  },
+  {
+    "Tom": "8233",
+    "Ibge": "4211900",
+    "NomeTom": "PALHO\uFFFDA",
+    "NomeIbge": "Palho\uFFFDa",
+    "Uf": "SC",
+    "Hash": "03313134d59eb5ae8d49cb18754aa9f99986a93234daa5c79f0e72d9ede1fae5"
+  },
+  {
+    "Tom": "8235",
+    "Ibge": "4212007",
+    "NomeTom": "PALMA SOLA",
+    "NomeIbge": "Palma Sola",
+    "Uf": "SC",
+    "Hash": "160453dea7dacd3d18d15fde0bebb883f37a74493c13050838db1ebdc55be91f"
+  },
+  {
+    "Tom": "932",
+    "Ibge": "4212056",
+    "NomeTom": "PALMEIRA",
+    "NomeIbge": "Palmeira",
+    "Uf": "SC",
+    "Hash": "6601c8f729c353a7e4fbea7052b9950eb6a61535a3f90bbf5cba90f24083dac4"
+  },
+  {
+    "Tom": "8237",
+    "Ibge": "4212106",
+    "NomeTom": "PALMITOS",
+    "NomeIbge": "Palmitos",
+    "Uf": "SC",
+    "Hash": "30fbe1e2cbabce8edcd890c8c2fa2f8bd8177a08cbc72a88fc0c4ec137b02488"
+  },
+  {
+    "Tom": "8239",
+    "Ibge": "4212205",
+    "NomeTom": "PAPANDUVA",
+    "NomeIbge": "Papanduva",
+    "Uf": "SC",
+    "Hash": "8eb426bb70ca14a4a6817fba0233748ea26bfa7db9d2924c8b04531d72e7cdb4"
+  },
+  {
+    "Tom": "5747",
+    "Ibge": "4212239",
+    "NomeTom": "PARA\uFFFDSO",
+    "NomeIbge": "Para\uFFFDso",
+    "Uf": "SC",
+    "Hash": "d426e9de7b622a684994a20ee3e43dc539c6b5eabf3a295dfc44f55ffd3e279c"
+  },
+  {
+    "Tom": "5541",
+    "Ibge": "4212254",
+    "NomeTom": "PASSO DE TORRES",
+    "NomeIbge": "Passo de Torres",
+    "Uf": "SC",
+    "Hash": "f26bbb07c948c36ddf80264f470e4469854a29dd315c1aeb2fb1ec8fca34a9bd"
+  },
+  {
+    "Tom": "5743",
+    "Ibge": "4212270",
+    "NomeTom": "PASSOS MAIA",
+    "NomeIbge": "Passos Maia",
+    "Uf": "SC",
+    "Hash": "2d078d2949723c2d0614dd156f6a59e3f8822d5eae9ad5fffc9ff776b156c5a0"
+  },
+  {
+    "Tom": "8241",
+    "Ibge": "4212304",
+    "NomeTom": "PAULO LOPES",
+    "NomeIbge": "Paulo Lopes",
+    "Uf": "SC",
+    "Hash": "2c8cb2ace1ee48c79cc07ba6f2a933670119649199acbe630411740e9ab9d738"
+  },
+  {
+    "Tom": "8243",
+    "Ibge": "4212403",
+    "NomeTom": "PEDRAS GRANDES",
+    "NomeIbge": "Pedras Grandes",
+    "Uf": "SC",
+    "Hash": "6ed7b5b1fcf785e2a1604f4f4eda8c355461489d24f920dab0b386746f593f01"
+  },
+  {
+    "Tom": "8245",
+    "Ibge": "4212502",
+    "NomeTom": "PENHA",
+    "NomeIbge": "Penha",
+    "Uf": "SC",
+    "Hash": "ff4d919dbd02ce953351de0724e45a963ba6d999c7fc4195a30dbd5b6852c36e"
+  },
+  {
+    "Tom": "8247",
+    "Ibge": "4212601",
+    "NomeTom": "PERITIBA",
+    "NomeIbge": "Peritiba",
+    "Uf": "SC",
+    "Hash": "e4f9dcfa0ace18b26225f144d5f35604b9095b499956cc903d164f2a46138804"
+  },
+  {
+    "Tom": "1194",
+    "Ibge": "4212650",
+    "NomeTom": "PESCARIA BRAVA",
+    "NomeIbge": "Pescaria Brava",
+    "Uf": "SC",
+    "Hash": "e66e845dbf03d9897d5e5d2bec1c457aee51936e43f970ed76c322b1b8675294"
+  },
+  {
+    "Tom": "8249",
+    "Ibge": "4212700",
+    "NomeTom": "PETROL\uFFFDNDIA",
+    "NomeIbge": "Petrol\uFFFDndia",
+    "Uf": "SC",
+    "Hash": "7fba725b873954a18737c77f02f1d0181ffc465d7e793c40c40cc095fe21afa5"
+  },
+  {
+    "Tom": "8253",
+    "Ibge": "4212908",
+    "NomeTom": "PINHALZINHO",
+    "NomeIbge": "Pinhalzinho",
+    "Uf": "SC",
+    "Hash": "160d94c5c9e5b767d516dab77aa7c5cfe34e35b60d46e0ee1f62007891d55709"
+  },
+  {
+    "Tom": "8255",
+    "Ibge": "4213005",
+    "NomeTom": "PINHEIRO PRETO",
+    "NomeIbge": "Pinheiro Preto",
+    "Uf": "SC",
+    "Hash": "ba393a3740e651f92fec7b18fa7adbf7cb54770ebbe0d1e4d173da415938c2e3"
+  },
+  {
+    "Tom": "8257",
+    "Ibge": "4213104",
+    "NomeTom": "PIRATUBA",
+    "NomeIbge": "Piratuba",
+    "Uf": "SC",
+    "Hash": "3da1d61e028a946fd5dbf3016769a0ace8e4a4d821756dc44e747efbbabc99f6"
+  },
+  {
+    "Tom": "5593",
+    "Ibge": "4213153",
+    "NomeTom": "PLANALTO ALEGRE",
+    "NomeIbge": "Planalto Alegre",
+    "Uf": "SC",
+    "Hash": "34afa0c70660f446fc4c91aba38b3bab8e9915047b4fde865e355c3d21bd99be"
+  },
+  {
+    "Tom": "8259",
+    "Ibge": "4213203",
+    "NomeTom": "POMERODE",
+    "NomeIbge": "Pomerode",
+    "Uf": "SC",
+    "Hash": "324ea1defb879c27957fd268eed55dbd985a12616037b2e6a5d1eab93fe3a0ce"
+  },
+  {
+    "Tom": "8261",
+    "Ibge": "4213302",
+    "NomeTom": "PONTE ALTA",
+    "NomeIbge": "Ponte Alta",
+    "Uf": "SC",
+    "Hash": "edca39e2526a3497a75e04e81cc5b312a1c371e8a282f77d48a4a78d8d8e1608"
+  },
+  {
+    "Tom": "5569",
+    "Ibge": "4213351",
+    "NomeTom": "PONTE ALTA DO NORTE",
+    "NomeIbge": "Ponte Alta do Norte",
+    "Uf": "SC",
+    "Hash": "267b90bfe4a576a9be801b8f47b59caf3fe2029e6103e9d6f74fd2941193204f"
+  },
+  {
+    "Tom": "8263",
+    "Ibge": "4213401",
+    "NomeTom": "PONTE SERRADA",
+    "NomeIbge": "Ponte Serrada",
+    "Uf": "SC",
+    "Hash": "1ea2725e8da6542944309cc038155ce3a963680a249f76a5790adf07363fce69"
+  },
+  {
+    "Tom": "8265",
+    "Ibge": "4213500",
+    "NomeTom": "PORTO BELO",
+    "NomeIbge": "Porto Belo",
+    "Uf": "SC",
+    "Hash": "6ed1476087815b787b71d48b6f0163656725b082254050251947d6724041cc10"
+  },
+  {
+    "Tom": "8267",
+    "Ibge": "4213609",
+    "NomeTom": "PORTO UNI\uFFFDO",
+    "NomeIbge": "Porto Uni\uFFFDo",
+    "Uf": "SC",
+    "Hash": "8a40e30a8c5e9db09cf9b4eaaf67cc9c24514a901a457c66d2e25174ee3934e0"
+  },
+  {
+    "Tom": "8269",
+    "Ibge": "4213708",
+    "NomeTom": "POUSO REDONDO",
+    "NomeIbge": "Pouso Redondo",
+    "Uf": "SC",
+    "Hash": "66460dcfe31c71183ac5014203bcd6041ae52da420db999702d7c437d9d1392c"
+  },
+  {
+    "Tom": "8271",
+    "Ibge": "4213807",
+    "NomeTom": "PRAIA GRANDE",
+    "NomeIbge": "Praia Grande",
+    "Uf": "SC",
+    "Hash": "b4f32b7d18b70f94c4486640fc5ef18586de4b8caf2171f6b484ef1b4e2bb777"
+  },
+  {
+    "Tom": "8273",
+    "Ibge": "4213906",
+    "NomeTom": "PRESIDENTE CASTELLO BRANCO",
+    "NomeIbge": "Presidente Castello Branco",
+    "Uf": "SC",
+    "Hash": "f9370cbbbc378a2aff02a33a1b461bd2d6910992b204aad110f6dbabaac45d7c"
+  },
+  {
+    "Tom": "8275",
+    "Ibge": "4214003",
+    "NomeTom": "PRESIDENTE GET\uFFFDLIO",
+    "NomeIbge": "Presidente Get\uFFFDlio",
+    "Uf": "SC",
+    "Hash": "cf2b9fdc2752ef7d4373c2c9312782618949ad0915d2c2ade7e8dcabb57a1264"
+  },
+  {
+    "Tom": "8277",
+    "Ibge": "4214102",
+    "NomeTom": "PRESIDENTE NEREU",
+    "NomeIbge": "Presidente Nereu",
+    "Uf": "SC",
+    "Hash": "4800671c0cdd771354a0b7420750f6b98d273625b352bcf68c9a0b3e4dc046df"
+  },
+  {
+    "Tom": "934",
+    "Ibge": "4214151",
+    "NomeTom": "PRINCESA",
+    "NomeIbge": "Princesa",
+    "Uf": "SC",
+    "Hash": "f5d64060ece1e5671833ceb9a6ccead5f11e2d7566993b7890408e93838142d3"
+  },
+  {
+    "Tom": "8279",
+    "Ibge": "4214201",
+    "NomeTom": "QUILOMBO",
+    "NomeIbge": "Quilombo",
+    "Uf": "SC",
+    "Hash": "b82f074b721e99ad78604a1778548ee6f7a6bccef622add71da73661f8f9a0fd"
+  },
+  {
+    "Tom": "8281",
+    "Ibge": "4214300",
+    "NomeTom": "RANCHO QUEIMADO",
+    "NomeIbge": "Rancho Queimado",
+    "Uf": "SC",
+    "Hash": "e35d4ea979ab2b427d76c666a614eb9d90c14092c4fbd9b7af1e64211daefa0c"
+  },
+  {
+    "Tom": "8283",
+    "Ibge": "4214409",
+    "NomeTom": "RIO DAS ANTAS",
+    "NomeIbge": "Rio das Antas",
+    "Uf": "SC",
+    "Hash": "872f5f9f543e71f9b776395810804b526a21411d3bcb7b6fd07963062fc7df44"
+  },
+  {
+    "Tom": "8285",
+    "Ibge": "4214508",
+    "NomeTom": "RIO DO CAMPO",
+    "NomeIbge": "Rio do Campo",
+    "Uf": "SC",
+    "Hash": "526cb1c362017e1305b4bb80b25f346055334c37395efcc0a11bb81082bbd2b7"
+  },
+  {
+    "Tom": "8287",
+    "Ibge": "4214607",
+    "NomeTom": "RIO DO OESTE",
+    "NomeIbge": "Rio do Oeste",
+    "Uf": "SC",
+    "Hash": "becd0a6a3f94bb7176b4f89b385c99ab36b47d68e9c3d083c7e065bb1210c0d6"
+  },
+  {
+    "Tom": "8291",
+    "Ibge": "4214805",
+    "NomeTom": "RIO DO SUL",
+    "NomeIbge": "Rio do Sul",
+    "Uf": "SC",
+    "Hash": "e51698fae3beb610f8e4240c2b38e6d349fb79c5d1b727e60bce3d0c960e8883"
+  },
+  {
+    "Tom": "8289",
+    "Ibge": "4214706",
+    "NomeTom": "RIO DOS CEDROS",
+    "NomeIbge": "Rio dos Cedros",
+    "Uf": "SC",
+    "Hash": "c544d60593c35ed1c36e75393e2fe71eb4cbb3e67ab8de5019e054121ce8b65c"
+  },
+  {
+    "Tom": "8293",
+    "Ibge": "4214904",
+    "NomeTom": "RIO FORTUNA",
+    "NomeIbge": "Rio Fortuna",
+    "Uf": "SC",
+    "Hash": "61b1ff7886b9bdeefebd3e13fd7d9f99efda2af7203ec77c36fd32d8eca8647c"
+  },
+  {
+    "Tom": "8295",
+    "Ibge": "4215000",
+    "NomeTom": "RIO NEGRINHO",
+    "NomeIbge": "Rio Negrinho",
+    "Uf": "SC",
+    "Hash": "39e09749e4e0228ce8f78dd3e3e7f4164809c0d877a89198e926d8218e18af71"
+  },
+  {
+    "Tom": "5571",
+    "Ibge": "4215059",
+    "NomeTom": "RIO RUFINO",
+    "NomeIbge": "Rio Rufino",
+    "Uf": "SC",
+    "Hash": "f41033baa8db5c8f11b9ca2a2ca750bed8faf9895549f1fa7ac57302cbdfebd6"
+  },
+  {
+    "Tom": "5749",
+    "Ibge": "4215075",
+    "NomeTom": "RIQUEZA",
+    "NomeIbge": "Riqueza",
+    "Uf": "SC",
+    "Hash": "d0de3dbdaeda8a8347539c647fd53cdef4d5dfa03779f712166b050147a08e8f"
+  },
+  {
+    "Tom": "8297",
+    "Ibge": "4215109",
+    "NomeTom": "RODEIO",
+    "NomeIbge": "Rodeio",
+    "Uf": "SC",
+    "Hash": "0a50d689d09cf12a378bf63e8bb4413c4a24318e62d7988089f6e2cf920c2139"
+  },
+  {
+    "Tom": "8299",
+    "Ibge": "4215208",
+    "NomeTom": "ROMEL\uFFFDNDIA",
+    "NomeIbge": "Romel\uFFFDndia",
+    "Uf": "SC",
+    "Hash": "ab6860e9e10ca80add05a6ee7dac1527455a4f3c927264797df14bd2f0f1d2b0"
+  },
+  {
+    "Tom": "8301",
+    "Ibge": "4215307",
+    "NomeTom": "SALETE",
+    "NomeIbge": "Salete",
+    "Uf": "SC",
+    "Hash": "b14954e459737df63711843fa2719c0414afa6c80786f44d5aca6a82909db88f"
+  },
+  {
+    "Tom": "936",
+    "Ibge": "4215356",
+    "NomeTom": "SALTINHO",
+    "NomeIbge": "Saltinho",
+    "Uf": "SC",
+    "Hash": "b30ec50c8a53eec84106131fd5ae8d3e3cd65581f61934badcfbf103cf5a4897"
+  },
+  {
+    "Tom": "8303",
+    "Ibge": "4215406",
+    "NomeTom": "SALTO VELOSO",
+    "NomeIbge": "Salto Veloso",
+    "Uf": "SC",
+    "Hash": "b17ad80709d9de1e86d260f260227d4871659ff27cfeb3c738349941d4aa54d0"
+  },
+  {
+    "Tom": "5547",
+    "Ibge": "4215455",
+    "NomeTom": "SANG\uFFFDO",
+    "NomeIbge": "Sang\uFFFDo",
+    "Uf": "SC",
+    "Hash": "c5e8f1229170cbbf33a1b203e959499def06517a21207f077b099656981d8aed"
+  },
+  {
+    "Tom": "8305",
+    "Ibge": "4215505",
+    "NomeTom": "SANTA CEC\uFFFDLIA",
+    "NomeIbge": "Santa Cec\uFFFDlia",
+    "Uf": "SC",
+    "Hash": "413e10d93636e7a34355fda6af28e8cdff96c4439b1fd441fcecbe93ef4aefbd"
+  },
+  {
+    "Tom": "5751",
+    "Ibge": "4215554",
+    "NomeTom": "SANTA HELENA",
+    "NomeIbge": "Santa Helena",
+    "Uf": "SC",
+    "Hash": "cd2fc10d817dc55b80a68cf12592aa4db0b70eee6a457fa68ee9131e99e22171"
+  },
+  {
+    "Tom": "8307",
+    "Ibge": "4215604",
+    "NomeTom": "SANTA ROSA DE LIMA",
+    "NomeIbge": "Santa Rosa de Lima",
+    "Uf": "SC",
+    "Hash": "2eaaac620c11fcc80c77d244202b2448e033d5b852a7ff51d3e1a86f99634f10"
+  },
+  {
+    "Tom": "9967",
+    "Ibge": "4215653",
+    "NomeTom": "SANTA ROSA DO SUL",
+    "NomeIbge": "Santa Rosa do Sul",
+    "Uf": "SC",
+    "Hash": "1743ff8a876e039b8b414d1e0f8ca91b42bdb56b55bf7cc45536172275c70fa6"
+  },
+  {
+    "Tom": "5555",
+    "Ibge": "4215679",
+    "NomeTom": "SANTA TEREZINHA",
+    "NomeIbge": "Santa Terezinha",
+    "Uf": "SC",
+    "Hash": "ced46285dccfbf8141cb680a694e6f488724bee00d68a730b62d5848547bfb49"
+  },
+  {
+    "Tom": "938",
+    "Ibge": "4215687",
+    "NomeTom": "SANTA TEREZINHA DO PROGRESSO",
+    "NomeIbge": "Santa Terezinha do Progresso",
+    "Uf": "SC",
+    "Hash": "e7e7b3ef9a120fcab9b7f03a1bd56812297023384157775af8451960524ba3ef"
+  },
+  {
+    "Tom": "940",
+    "Ibge": "4215695",
+    "NomeTom": "SANTIAGO DO SUL",
+    "NomeIbge": "Santiago do Sul",
+    "Uf": "SC",
+    "Hash": "f6690bd9798a5b496bd8c177d1a619c12f01c2809c37580d71b6f6c02a2c3f1e"
+  },
+  {
+    "Tom": "8309",
+    "Ibge": "4215703",
+    "NomeTom": "SANTO AMARO DA IMPERATRIZ",
+    "NomeIbge": "Santo Amaro da Imperatriz",
+    "Uf": "SC",
+    "Hash": "214b599e9f115c4cfac8be54215cdd62a59e472dffc282832f8b7e2c81573503"
+  },
+  {
+    "Tom": "8341",
+    "Ibge": "4217303",
+    "NomeTom": "SAUDADES",
+    "NomeIbge": "Saudades",
+    "Uf": "SC",
+    "Hash": "4b059e92091e885920ee649c33a58da4e9d63f8bbf3812ae27f05c6eba476e67"
+  },
+  {
+    "Tom": "8343",
+    "Ibge": "4217402",
+    "NomeTom": "SCHROEDER",
+    "NomeIbge": "Schroeder",
+    "Uf": "SC",
+    "Hash": "e58dff792947298503df9821a8fca91785f448c3bdf30543aa7291bd4390ecfa"
+  },
+  {
+    "Tom": "8345",
+    "Ibge": "4217501",
+    "NomeTom": "SEARA",
+    "NomeIbge": "Seara",
+    "Uf": "SC",
+    "Hash": "0ac2cdacee0f4ff46c46840867e59f5b29475a446966fdd2d892b40e80ec8a2c"
+  },
+  {
+    "Tom": "9989",
+    "Ibge": "4217550",
+    "NomeTom": "SERRA ALTA",
+    "NomeIbge": "Serra Alta",
+    "Uf": "SC",
+    "Hash": "46dd16208f23b68ee4ec3d39da69622dd0817f4191b23ea67034c7afdee12345"
+  },
+  {
+    "Tom": "8347",
+    "Ibge": "4217600",
+    "NomeTom": "SIDER\uFFFDPOLIS",
+    "NomeIbge": "Sider\uFFFDpolis",
+    "Uf": "SC",
+    "Hash": "080e032bce49c91d6e7abe017ce8fda035d68976f3bd0563905675c8367e04d1"
+  },
+  {
+    "Tom": "8349",
+    "Ibge": "4217709",
+    "NomeTom": "SOMBRIO",
+    "NomeIbge": "Sombrio",
+    "Uf": "SC",
+    "Hash": "1367cc7dce99d3b23000c630186f8ba1fb43bc0d73f1cab97bb5ed25a304ec89"
+  },
+  {
+    "Tom": "5595",
+    "Ibge": "4217758",
+    "NomeTom": "SUL BRASIL",
+    "NomeIbge": "Sul Brasil",
+    "Uf": "SC",
+    "Hash": "81e5187ace4bc240e83908bdf1ca2a5deb6ddcaf3abd2530f9074b4613766383"
+  },
+  {
+    "Tom": "8311",
+    "Ibge": "4215802",
+    "NomeTom": "S\uFFFDO BENTO DO SUL",
+    "NomeIbge": "S\uFFFDo Bento do Sul",
+    "Uf": "SC",
+    "Hash": "16d9813ad30ce4018e664e8fd2e286773399d773bdb95362de5a024c9ea6ad36"
+  },
+  {
+    "Tom": "942",
+    "Ibge": "4215752",
+    "NomeTom": "S\uFFFDO BERNARDINO",
+    "NomeIbge": "S\uFFFDo Bernardino",
+    "Uf": "SC",
+    "Hash": "b245e564650f67688d384ae4f52ff867c81962ad1e04fb7e4a49e2f0a94f3f71"
+  },
+  {
+    "Tom": "8313",
+    "Ibge": "4215901",
+    "NomeTom": "S\uFFFDO BONIF\uFFFDCIO",
+    "NomeIbge": "S\uFFFDo Bonif\uFFFDcio",
+    "Uf": "SC",
+    "Hash": "9db8df8176bdce12282f1914a5e9108ab5dbd779b41909509334d0a9f44e3a32"
+  },
+  {
+    "Tom": "8315",
+    "Ibge": "4216008",
+    "NomeTom": "S\uFFFDO CARLOS",
+    "NomeIbge": "S\uFFFDo Carlos",
+    "Uf": "SC",
+    "Hash": "19587a333a4c9b1487b9ecc431ccb21941a7977d08fefa86384e8680185d6876"
+  },
+  {
+    "Tom": "5573",
+    "Ibge": "4216057",
+    "NomeTom": "S\uFFFDO CRISTOV\uFFFDO DO SUL",
+    "NomeIbge": "S\uFFFDo Crist\uFFFDv\uFFFDo do Sul",
+    "Uf": "SC",
+    "Hash": "b1495901f828daea2f03c7feaf40828bd19d28478566e04445cebe9b57309657"
+  },
+  {
+    "Tom": "8317",
+    "Ibge": "4216107",
+    "NomeTom": "S\uFFFDO DOMINGOS",
+    "NomeIbge": "S\uFFFDo Domingos",
+    "Uf": "SC",
+    "Hash": "d11def5f8d58919e4318b55d7bdbde145df39ddad9f8e4dc1fd95e58549b27a1"
+  },
+  {
+    "Tom": "8319",
+    "Ibge": "4216206",
+    "NomeTom": "S\uFFFDO FRANCISCO DO SUL",
+    "NomeIbge": "S\uFFFDo Francisco do Sul",
+    "Uf": "SC",
+    "Hash": "de59c9df4bf14e6c8f51d50fce6dcbb491a02897eea26bb2a43e296637c6d43a"
+  },
+  {
+    "Tom": "8325",
+    "Ibge": "4216503",
+    "NomeTom": "S\uFFFDO JOAQUIM",
+    "NomeIbge": "S\uFFFDo Joaquim",
+    "Uf": "SC",
+    "Hash": "391efd8875c43f98c4b9e82187d16af811a60fb9b36bf8a82cc6025f18efdfb6"
+  },
+  {
+    "Tom": "8327",
+    "Ibge": "4216602",
+    "NomeTom": "S\uFFFDO JOS\uFFFD",
+    "NomeIbge": "S\uFFFDo Jos\uFFFD",
+    "Uf": "SC",
+    "Hash": "e5d78c0aa986fd62fd2b79ff53713f161d4f7dd44595a2789b6568088dd30d69"
+  },
+  {
+    "Tom": "8329",
+    "Ibge": "4216701",
+    "NomeTom": "S\uFFFDO JOS\uFFFD DO CEDRO",
+    "NomeIbge": "S\uFFFDo Jos\uFFFD do Cedro",
+    "Uf": "SC",
+    "Hash": "9738e19ed0cd77d9f57167cd4206ab4032acd5c1aff4198e1b7d7d7177378610"
+  },
+  {
+    "Tom": "8331",
+    "Ibge": "4216800",
+    "NomeTom": "S\uFFFDO JOS\uFFFD DO CERRITO",
+    "NomeIbge": "S\uFFFDo Jos\uFFFD do Cerrito",
+    "Uf": "SC",
+    "Hash": "480acf98fdbc3d96bc6f5965b0e9c7bbd68fa25e7e20a797acdc4100a66cab65"
+  },
+  {
+    "Tom": "8321",
+    "Ibge": "4216305",
+    "NomeTom": "S\uFFFDO JO\uFFFDO BATISTA",
+    "NomeIbge": "S\uFFFDo Jo\uFFFDo Batista",
+    "Uf": "SC",
+    "Hash": "fc787ff02235093eae1e19e2fcafaa23cf4870205262e6f6ab983c244de6f4f3"
+  },
+  {
+    "Tom": "5551",
+    "Ibge": "4216354",
+    "NomeTom": "S\uFFFDO JO\uFFFDO DO ITAPERI\uFFFD",
+    "NomeIbge": "S\uFFFDo Jo\uFFFDo do Itaperi\uFFFD",
+    "Uf": "SC",
+    "Hash": "d49d3365819276b96862f0db10a96682f0e67e871f130be886fb3aefde04ccfb"
+  },
+  {
+    "Tom": "5753",
+    "Ibge": "4216255",
+    "NomeTom": "S\uFFFDO JO\uFFFDO DO OESTE",
+    "NomeIbge": "S\uFFFDo Jo\uFFFDo do Oeste",
+    "Uf": "SC",
+    "Hash": "7bc615cbce1da2492d7122cb85c61abac70aca5cf3b5f11e76ce1bbb7e84e25a"
+  },
+  {
+    "Tom": "8323",
+    "Ibge": "4216404",
+    "NomeTom": "S\uFFFDO JO\uFFFDO DO SUL",
+    "NomeIbge": "S\uFFFDo Jo\uFFFDo do Sul",
+    "Uf": "SC",
+    "Hash": "b207194d267c6f4ffb892bcac2b585a9cc01c52f96a20ba3867aaae6b35bb705"
+  },
+  {
+    "Tom": "8333",
+    "Ibge": "4216909",
+    "NomeTom": "S\uFFFDo Louren\uFFFDo do Oeste",
+    "NomeIbge": "S\uFFFDo Louren\uFFFDo do Oeste",
+    "Uf": "SC",
+    "Hash": "7bd465d59f8c7377a38797c66e7f3fe96351abba781f7755b3baaf67c57f69d2"
+  },
+  {
+    "Tom": "8335",
+    "Ibge": "4217006",
+    "NomeTom": "S\uFFFDO LUDGERO",
+    "NomeIbge": "S\uFFFDo Ludgero",
+    "Uf": "SC",
+    "Hash": "90f9e5bf0a320d8ac5ed96abb98d0657acab4b973008e6bb50c6e116dd77e998"
+  },
+  {
+    "Tom": "8337",
+    "Ibge": "4217105",
+    "NomeTom": "S\uFFFDO MARTINHO",
+    "NomeIbge": "S\uFFFDo Martinho",
+    "Uf": "SC",
+    "Hash": "350ebab7d9a49a66a848fb30e455a4107c328fe599bf9d3aca9e9d2a12f81520"
+  },
+  {
+    "Tom": "5755",
+    "Ibge": "4217154",
+    "NomeTom": "S\uFFFDO MIGUEL DA BOA VISTA",
+    "NomeIbge": "S\uFFFDo Miguel da Boa Vista",
+    "Uf": "SC",
+    "Hash": "5409037ca3b9081a58534e39ee5786331c67bb6c69d6ab949d2cbfd9fd4a67ee"
+  },
+  {
+    "Tom": "8339",
+    "Ibge": "4217204",
+    "NomeTom": "S\uFFFDO MIGUEL DO OESTE",
+    "NomeIbge": "S\uFFFDo Miguel do Oeste",
+    "Uf": "SC",
+    "Hash": "fe93e963a82d83e10a738ad3b8154dfaaf523b26a27a5cdf897e0f33882a6bf9"
+  },
+  {
+    "Tom": "944",
+    "Ibge": "4217253",
+    "NomeTom": "S\uFFFDO PEDRO DE ALC\uFFFDNTARA",
+    "NomeIbge": "S\uFFFDo Pedro de Alc\uFFFDntara",
+    "Uf": "SC",
+    "Hash": "22a7d0522ffd764829612e7deac12f0cd968f2be00194e543a2e99e7fc185fb4"
+  },
+  {
+    "Tom": "8351",
+    "Ibge": "4217808",
+    "NomeTom": "TAI\uFFFD",
+    "NomeIbge": "Tai\uFFFD",
+    "Uf": "SC",
+    "Hash": "c5411e4ab9a1d7f64c841bf04e46b0749400f920531fadd47d8edfbfac68f233"
+  },
+  {
+    "Tom": "8353",
+    "Ibge": "4217907",
+    "NomeTom": "TANGAR\uFFFD",
+    "NomeIbge": "Tangar\uFFFD",
+    "Uf": "SC",
+    "Hash": "2ef325b242cb2eee4b7371786da9fa14956a89b8d2464244d0b727de7d90ba40"
+  },
+  {
+    "Tom": "946",
+    "Ibge": "4217956",
+    "NomeTom": "TIGRINHOS",
+    "NomeIbge": "Tigrinhos",
+    "Uf": "SC",
+    "Hash": "4d0c96da4b8e3aae9eeac7621286d29c0dfe0deedb7c9d5f5015df6967f801f7"
+  },
+  {
+    "Tom": "8355",
+    "Ibge": "4218004",
+    "NomeTom": "TIJUCAS",
+    "NomeIbge": "Tijucas",
+    "Uf": "SC",
+    "Hash": "d10e8f53cb660f8b05ac8d0fc972e1857e2c895f850d1507e10d10f8c9aec146"
+  },
+  {
+    "Tom": "8357",
+    "Ibge": "4218202",
+    "NomeTom": "TIMB\uFFFD",
+    "NomeIbge": "Timb\uFFFD",
+    "Uf": "SC",
+    "Hash": "2f5a2264148c68795d0ad92ac9e97730fa94279eb10cba8ccc776b07b1496a76"
+  },
+  {
+    "Tom": "8393",
+    "Ibge": "4218103",
+    "NomeTom": "TIMB\uFFFD DO SUL",
+    "NomeIbge": "Timb\uFFFD do Sul",
+    "Uf": "SC",
+    "Hash": "131642ed92baa383a131fa96c5463a71380857b02d3e6963bd8e60f40994b72c"
+  },
+  {
+    "Tom": "9971",
+    "Ibge": "4218251",
+    "NomeTom": "TIMB\uFFFD GRANDE",
+    "NomeIbge": "Timb\uFFFD Grande",
+    "Uf": "SC",
+    "Hash": "70b1b9410a9b9ab651eb459dac6c2e095207e46bdb2afa83deb8c69c0172bd1d"
+  },
+  {
+    "Tom": "948",
+    "Ibge": "4218350",
+    "NomeTom": "TREVISO",
+    "NomeIbge": "Treviso",
+    "Uf": "SC",
+    "Hash": "1bfcaad95e47f12aa7b794853101aee3d618e5735269eb0c91de8936fe66b4e1"
+  },
+  {
+    "Tom": "8361",
+    "Ibge": "4218400",
+    "NomeTom": "TREZE DE MAIO",
+    "NomeIbge": "Treze de Maio",
+    "Uf": "SC",
+    "Hash": "ad34735ae989ecc34d93c2e3068027d30a952cdc466ac2d9ef4474e031c05f12"
+  },
+  {
+    "Tom": "8363",
+    "Ibge": "4218509",
+    "NomeTom": "TREZE T\uFFFDLIAS",
+    "NomeIbge": "Treze T\uFFFDlias",
+    "Uf": "SC",
+    "Hash": "79ccabca104b155d970879b44facdeef1909b4e9c905176d18549b3ff53eac25"
+  },
+  {
+    "Tom": "8365",
+    "Ibge": "4218608",
+    "NomeTom": "TROMBUDO CENTRAL",
+    "NomeIbge": "Trombudo Central",
+    "Uf": "SC",
+    "Hash": "693ffb77ba6d938039d60f47ff9ec5a18bae10e110bad262a9254f1c042366d7"
+  },
+  {
+    "Tom": "8359",
+    "Ibge": "4218301",
+    "NomeTom": "TR\uFFFDS BARRAS",
+    "NomeIbge": "Tr\uFFFDs Barras",
+    "Uf": "SC",
+    "Hash": "af1a8cba53f9119996eaac6570d6c74561ced1f7c6cb6ba418541bd2b55429f0"
+  },
+  {
+    "Tom": "8367",
+    "Ibge": "4218707",
+    "NomeTom": "TUBAR\uFFFDO",
+    "NomeIbge": "Tubar\uFFFDo",
+    "Uf": "SC",
+    "Hash": "82b838227adaf40eecd794a84346284211d2db864d2552d03043de93899f05c4"
+  },
+  {
+    "Tom": "9991",
+    "Ibge": "4218756",
+    "NomeTom": "TUN\uFFFDPOLIS",
+    "NomeIbge": "Tun\uFFFDpolis",
+    "Uf": "SC",
+    "Hash": "99eeec4170de007032d3792ce739a1103788df0a891c20f206a077f3ba7d5400"
+  },
+  {
+    "Tom": "8369",
+    "Ibge": "4218806",
+    "NomeTom": "TURVO",
+    "NomeIbge": "Turvo",
+    "Uf": "SC",
+    "Hash": "0d390753af6c1be369ac04f2770689400638f4c38a3e8a2261be0db5351483f9"
+  },
+  {
+    "Tom": "9973",
+    "Ibge": "4218855",
+    "NomeTom": "UNI\uFFFDO DO OESTE",
+    "NomeIbge": "Uni\uFFFDo do Oeste",
+    "Uf": "SC",
+    "Hash": "fb2060170bb56c945ca55de701a1ea154b657ad8c467abb68d3f41412767d78d"
+  },
+  {
+    "Tom": "8371",
+    "Ibge": "4218905",
+    "NomeTom": "URUBICI",
+    "NomeIbge": "Urubici",
+    "Uf": "SC",
+    "Hash": "c8961f2c83929498289390cdb95f79267cbe1766e474a0c2cf872756eae2a019"
+  },
+  {
+    "Tom": "9975",
+    "Ibge": "4218954",
+    "NomeTom": "URUPEMA",
+    "NomeIbge": "Urupema",
+    "Uf": "SC",
+    "Hash": "8c77b4f02f2d604e2070b8714b5626f416e1cfc3ae8bf7a42e624209965bb611"
+  },
+  {
+    "Tom": "8373",
+    "Ibge": "4219002",
+    "NomeTom": "URUSSANGA",
+    "NomeIbge": "Urussanga",
+    "Uf": "SC",
+    "Hash": "6b659cef5a4d3f3e136694e08968d47396d96e405a9bccbfd22763390c0e1e16"
+  },
+  {
+    "Tom": "5563",
+    "Ibge": "4219150",
+    "NomeTom": "VARGEM",
+    "NomeIbge": "Vargem",
+    "Uf": "SC",
+    "Hash": "92d0a3cfe51e9af8ae1f34d0a1255757185d912d4bd051a3332ee69a158c52c2"
+  },
+  {
+    "Tom": "5565",
+    "Ibge": "4219176",
+    "NomeTom": "VARGEM BONITA",
+    "NomeIbge": "Vargem Bonita",
+    "Uf": "SC",
+    "Hash": "cf1b445a104ba8feff6d0f00008cda59311046cfacdc709a61c0070eb1057c12"
+  },
+  {
+    "Tom": "8375",
+    "Ibge": "4219101",
+    "NomeTom": "VARGE\uFFFDO",
+    "NomeIbge": "Varge\uFFFDo",
+    "Uf": "SC",
+    "Hash": "31eb48f1e36be25ea508ae011a5e7f2a856c5321515c438e6ad80376774d1c59"
+  },
+  {
+    "Tom": "8377",
+    "Ibge": "4219200",
+    "NomeTom": "VIDAL RAMOS",
+    "NomeIbge": "Vidal Ramos",
+    "Uf": "SC",
+    "Hash": "a06c174963c94466b62ceb59f80b559e874962c32b1e3519028a7dc34fb5e709"
+  },
+  {
+    "Tom": "8379",
+    "Ibge": "4219309",
+    "NomeTom": "VIDEIRA",
+    "NomeIbge": "Videira",
+    "Uf": "SC",
+    "Hash": "11c819b729e726ea88e82a60dc2de0f33acf54669d76dddc43713b70c6bd664b"
+  },
+  {
+    "Tom": "9977",
+    "Ibge": "4219358",
+    "NomeTom": "VITOR MEIRELES",
+    "NomeIbge": "Vitor Meireles",
+    "Uf": "SC",
+    "Hash": "6fb47d36f04ccca19423f291889a7f7ac757409047afc3221cfe0b23a479564d"
+  },
+  {
+    "Tom": "8381",
+    "Ibge": "4219408",
+    "NomeTom": "WITMARSUM",
+    "NomeIbge": "Witmarsum",
+    "Uf": "SC",
+    "Hash": "8d7f6171ee127c3c3e7f0d97047644a2c7a82f9909f2a47c7945f7ee59c4fb18"
+  },
+  {
+    "Tom": "8383",
+    "Ibge": "4219507",
+    "NomeTom": "XANXER\uFFFD",
+    "NomeIbge": "Xanxer\uFFFD",
+    "Uf": "SC",
+    "Hash": "36df91de2cc90bfd093db59df8bec1801f49390f01e4f1bf2dbe4cbf76a601fe"
+  },
+  {
+    "Tom": "8385",
+    "Ibge": "4219606",
+    "NomeTom": "XAVANTINA",
+    "NomeIbge": "Xavantina",
+    "Uf": "SC",
+    "Hash": "a6085e9e3b81b0188d79cae68d98182aea16a222d5df31d4d3a7b60f4367399c"
+  },
+  {
+    "Tom": "8387",
+    "Ibge": "4219705",
+    "NomeTom": "XAXIM",
+    "NomeIbge": "Xaxim",
+    "Uf": "SC",
+    "Hash": "3daf7f55125e5d1f6a29c8817460689e155342333ebd6d8cc3c9c84bc6023af9"
+  },
+  {
+    "Tom": "950",
+    "Ibge": "4219853",
+    "NomeTom": "ZORT\uFFFDA",
+    "NomeIbge": "Zort\uFFFDa",
+    "Uf": "SC",
+    "Hash": "cc751a9e989d8e6d89912346d86bfede9db061a91612136e63b49cca91fb9597"
+  },
+  {
+    "Tom": "8007",
+    "Ibge": "4200408",
+    "NomeTom": "\uFFFDGUA DOCE",
+    "NomeIbge": "\uFFFDgua Doce",
+    "Uf": "SC",
+    "Hash": "f8066b53aab09d72732252ae13a7ad13a99948ffcef4eb3e336d11936567ae5f"
+  },
+  {
+    "Tom": "8009",
+    "Ibge": "4200507",
+    "NomeTom": "\uFFFDGUAS DE CHAPEC\uFFFD",
+    "NomeIbge": "\uFFFDguas de Chapec\uFFFD",
+    "Uf": "SC",
+    "Hash": "3e6c312a7d04a83eece3ed47eb38d9aaa23c87da504cc78f63bb8c7c6278fdd2"
+  },
+  {
+    "Tom": "5577",
+    "Ibge": "4200556",
+    "NomeTom": "\uFFFDGUAS FRIAS",
+    "NomeIbge": "\uFFFDguas Frias",
+    "Uf": "SC",
+    "Hash": "a9e4dfd52a3de76134c8a73364ef806e3b2345debd6c0ffbd8fc1bfedb832490"
+  },
+  {
+    "Tom": "8011",
+    "Ibge": "4200606",
+    "NomeTom": "\uFFFDGUAS MORNAS",
+    "NomeIbge": "\uFFFDguas Mornas",
+    "Uf": "SC",
+    "Hash": "493e2ff851e38f847cda13943939c739aabffb5cec2d15531e8de90ace7bf534"
+  }
+]
